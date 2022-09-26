@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reacciones</title>
+    <link rel="stylesheet" href="#style.css">
+    <style>
+        html , body {
+            margin: 0;
+            overflow: hidden;
+            width: 100%;
+            height: auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        img {
+            height: 100%; 
+            object-fit: contain; 
+        }
+    </style>
+</head>
+<body>
+    <img src="../Reacciones/07- Presentación Gynogel_Página_10.jpg" alt="reacciones" usemap="#reacciones">
+    <map name="reacciones">
+        <area alt="guia" title="guia" href="../Guia/guia" coords="1085,20,1139,44" shape="rect">
+        <area alt="inicio" title="inicio" href="../Inicio/inicio" coords="1182,22,1246,45" shape="rect">
+        <area alt="nav" title="nav" href="../Nav/nav" coords="1243,173,29" shape="circle">
+        <area alt="dienogest" title="dienogest" href="../Dienogest/dienogest" coords="1244,236,29" shape="circle">
+        <area alt="farmacocinetica" title="farmacocinetica" href="../Farmacocinetica/farmacocinetica" coords="1246,304,29" shape="circle">
+        <area alt="eficacia" title="eficacia" href="../Eficacia/eficacia" coords="1243,367,29" shape="circle">
+        <area alt="efectos" title="efectos" href="../Efectos/efectos" coords="1243,431,29" shape="circle">
+        <area alt="tolerabilidad" title="tolerabilidad" href="../Tolerabilidad/tolerabilidad" coords="1243,564,29" shape="circle">
+        <area alt="conclusiones" title="conclusiones" href="../Conclusiones/conclusiones" coords="1243,627,32" shape="circle">
+    </map>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="jQuery-rwdImageMaps-master/jquery.rwdImageMaps.min.js"></script>
+    <script>
+        $(document).ready(function(e){
+            $('img[usemap]').rwdImageMaps()
+        })
+    </script>
+</body>
+</html>

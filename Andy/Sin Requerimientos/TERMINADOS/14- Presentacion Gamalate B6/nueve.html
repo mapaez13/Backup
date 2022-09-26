@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gamalate B</title>
+    <link rel="stylesheet" href="#style.css">
+    <style>
+        html , body {
+            margin: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        img {
+            height: 100%; 
+            object-fit: contain;
+            
+            
+        }
+
+    </style>
+</head>
+<body>
+    <img src="jpg/14- Presentacion Gamalate B6_Página_09.jpg" usemap="#image_map">
+    <map name="image_map">
+        <area alt="" title="" href="#ocho" coords="1082,274,25" shape="circle">
+    </map>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="jQuery-rwdImageMaps-master/jquery.rwdImageMaps.min.js"></script>
+    <script>
+        $(document).ready(function(e){
+            $('img[usemap]').rwdImageMaps()
+        })
+    </script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colleague</title>
+    <link rel="stylesheet" href="#style.css">
+    <style>
+        html , body {
+            margin: 0;
+            overflow: hidden;
+            width: 100%;
+            height: auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        img {
+            height: 100%; 
+            object-fit: contain; 
+        }
+    </style>
+</head>
+<body>
+    <img src="../Portafolio 1/11- Presentación Bombas de Infusión_Página_12.jpg" alt="portafolio1" usemap="#portafolio1">
+    <map name="portafolio1">
+        <area alt="" title="" href="../Equipos/equipos" coords="1137,90,32" shape="circle">
+        <area alt="" title="" href="../Portafolio 2/portafolio2" coords="641,651,38" shape="circle">
+    </map>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="jQuery-rwdImageMaps-master/jquery.rwdImageMaps.min.js"></script>
+    <script>
+        $(document).ready(function(e){
+            $('img[usemap]').rwdImageMaps()
+        })
+    </script>
+</body>
+</html>

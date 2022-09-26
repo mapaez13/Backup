@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        html , body {
+            margin: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        img {
+            height: 100%; 
+            object-fit: contain;
+            
+            
+        }
+
+    </style>
+</head>
+<body>
+    <img src="jpg/01- Presentación Núcleo CMP_Página_19.jpg" usemap="image_map">
+    <map name="image_map">
+        <area alt="" title="" href="tres" coords="2081,123,49" shape="circle">
+        <area alt="" title="" href="veinticuatro" coords="2240,122,51" shape="circle">
+        <area alt="" title="" href="uno" coords="2400,122,50" shape="circle">
+        <area alt="" title="" href="dieciocho" coords="2364,548,2531,706" shape="rect">
+        <area alt="" title="" href="cuatro" coords="2364,704,2531,859" shape="rect">
+        <area alt="" title="" href="nueve" coords="2362,857,2531,1013" shape="rect">
+        <area alt="" title="" href="quince" coords="2359,1013,2531,1171" shape="rect">
+        <area alt="" title="" href="veintitres" coords="2364,1173,2531,1335" shape="rect">
+        <area alt="" title="" href="dieciseis" coords="176,729,341,889" shape="rect">
+        <area alt="" title="" href="diecisiete" coords="169,945,341,1101" shape="rect">
+        <area alt="" title="" href="dieciocho" coords="171,1157,338,1322" shape="rect">
+        <area alt="" title="" href="diecinueve" coords="167,1374,338,1541" shape="rect">
+        <area alt="" title="" href="veinte" coords="1216,1601,14" shape="circle">
+    </map>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="jQuery-rwdImageMaps-master/jquery.rwdImageMaps.min.js"></script>
+    <script>
+        $(document).ready(function(e){
+            $('img[usemap]').rwdImageMaps()
+        })
+    </script>
+</body>
+</html>

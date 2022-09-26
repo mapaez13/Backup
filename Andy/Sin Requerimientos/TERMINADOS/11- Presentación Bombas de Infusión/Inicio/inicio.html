@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colleague</title>
+    <link rel="stylesheet" href="#style.css">
+    <style>
+        html , body {
+            margin: 0;
+            overflow: hidden;
+            width: 100%;
+            height: auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        img {
+            height: 100%; 
+            object-fit: contain; 
+        }
+    </style>
+</head>
+<body>
+    <img src="../Inicio/11- Presentación Bombas de Infusión_Página_01.jpg" alt="main" usemap="#main">
+    <map name="main">
+        <area alt="nav" title="nav" href="../Nav/nav" coords="1280,324 1192,324 1191,272 1196,260 1211,248 1278,250 " shape="polygon">
+        <area alt="bomba" title="bomba" href="../Bomba/bomba" coords="1192,327,1280,403" shape="rect">
+        <area alt="cuidados" title="cuidados" href="../Cuidados/cuidados" coords="1192,404,1280,476" shape="rect">
+        <area alt="equipos" title="equipos" href="../Equipos/equipos" coords="1192,478,1280,552" shape="rect">
+        <area alt="guia" title="guia" href="../Guia/guia" coords="1088,732,29" shape="circle">
+    </map>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="jQuery-rwdImageMaps-master/jquery.rwdImageMaps.min.js"></script>
+    <script>
+        $(document).ready(function(e){
+            $('img[usemap]').rwdImageMaps()
+        })
+    </script>
+</body>
+</html>

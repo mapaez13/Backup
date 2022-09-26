@@ -1,0 +1,120 @@
+body{
+    background-color: gainsboro;
+    text-align: center;
+}
+.flex-container{
+    display: flex;
+    flex-flow:row wrap;
+    justify-content: center;
+    align-items: center;
+}
+.flex-uno{
+    background-color: whitesmoke;
+    text-align: center;
+    border-radius: 25px;
+    padding: 50px;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    border: solid red 5px;
+}
+.flex-dos{
+    background-color: whitesmoke;
+    text-align: center;
+    border-radius: 25px;
+    padding: 50px;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    border: solid red 5px;
+    margin-top: 20px;
+}
+.INICIO{
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-variant: small-caps;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+h2{
+    font-variant: small-caps;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+h3{
+    font-variant: small-caps;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    width: 300px;
+    margin: 15px;
+    padding: 15px;
+}
+ul {
+    list-style-type: none;
+    margin: -10px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #333;
+  }
+li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 28px 16px;
+    text-decoration: none;
+    font-variant:small-caps;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+.name{
+    display: block;
+    float: right;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-variant:small-caps;
+    
+}
+.nav{
+    width: 70px;
+}
+table{
+    text-align: center;
+    border: solid 5px red;
+    width: 600px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    background-color: grey;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+th{
+    background-color: lightgrey;
+    font-variant: small-caps;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}

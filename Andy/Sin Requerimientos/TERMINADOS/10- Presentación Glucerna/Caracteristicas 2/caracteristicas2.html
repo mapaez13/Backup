@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caracteristicas</title>
+    <link rel="stylesheet" href="#style.css">
+    <link rel="shortcut icon" href="../logo.png" type="image/x-icon">
+    <style>
+        html , body {
+            margin: 0;
+            overflow: hidden;
+            width: 100%;
+            height: auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        img {
+            height: 100%; 
+            object-fit: contain; 
+        }
+    </style>
+</head>
+<body>
+    <img src="../Caracteristicas 2/10- Presentación Glucerna_Página_09.jpg" alt="car2" usemap="#car2">
+    <map name="car2">
+        <area alt="" title="" href="../Guia/guia" coords="68,203,29" shape="circle">
+        <area alt="" title="" href="../Main/main" coords="69,286,28" shape="circle">
+        <area alt="" title="" href="../Nav/nav" coords="1210,246,1277,303" shape="rect">
+        <area alt="" title="" href="../Glucerna/glucerna" coords="1210,303,1277,365" shape="rect">
+        <area alt="" title="" href="../Accion/accion" coords="1212,368,1278,430" shape="rect">
+        <area alt="" title="" href="../Beneficios 1/beneficios1" coords="1213,436,1278,495" shape="rect">
+        <area alt="" title="" href="../Caracteristicas 1/caracteristicas1" coords="216,377 216,394 240,436 243,458 236,468 235,480 243,491 242,693 226,713 181,721 119,714 82,696 81,490 92,475 82,448 107,392 107,379 101,376 101,322 117,307 161,304 205,307 223,317 223,376 " shape="polygon">
+        </map>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="jQuery-rwdImageMaps-master/jquery.rwdImageMaps.min.js"></script>
+    <script>
+        $(document).ready(function(e){
+            $('img[usemap]').rwdImageMaps()
+        })
+    </script>
+</body>
+</html>

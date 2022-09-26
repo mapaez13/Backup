@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Somazina</title>
+    <link rel="stylesheet" href="#style.css">
+    <style>
+        html , body {
+            margin: 0;
+            overflow: hidden;
+            width: 100%;
+            height: auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        img {
+            height: 100%; 
+            object-fit: contain; 
+        }
+    </style>
+</head>
+<body>
+    <img src="../Nav/15- Presentación Somazina_Página_02.jpg" alt="nav" usemap="#nav">
+    <map name="nav">
+        <area alt="causas" title="causas" href="../Causas/causas" coords="911,398,32" shape="circle">
+        <area alt="factores" title="factores" href="../Factores/factores" coords="912,477,32" shape="circle">
+        <area alt="nav" title="nav" href="../Inicio/inicio" coords="1236,174,30" shape="circle">
+        <area alt="dcl" title="dcl" href="../DCL/dcl" coords="909,248,29" shape="circle">
+        <area alt="sintomas" title="sintomas" href="../Sintomas/sintomas" coords="909,325,29" shape="circle">
+        <area alt="seguridad" title="seguridad" href="../Seguridad/seguridad" coords="909,553,32" shape="circle">
+        <area alt="somazina" title="somazina" href="../Somazina/somazina" coords="909,627,29" shape="circle">
+    </map>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="jQuery-rwdImageMaps-master/jquery.rwdImageMaps.min.js"></script>
+    <script>
+        $(document).ready(function(e){
+            $('img[usemap]').rwdImageMaps()
+        })
+    </script>
+</body>
+</html>

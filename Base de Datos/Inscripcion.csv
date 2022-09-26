@@ -1,0 +1,1858 @@
+ID,CI,DEPORTE
+NULL,5719038,Basket Femenino
+NULL,5348354,Basket Femenino
+NULL,5741159,Basket Femenino
+NULL,5758983,Basket Femenino
+NULL,5934291,Basket Femenino
+NULL,5676607,Basket Femenino
+NULL,5645945,Basket Femenino
+NULL,5976084,Basket Femenino
+NULL,5644186,Basket Femenino
+NULL,5963202,Basket Femenino
+NULL,6217920,Basket Femenino
+NULL,6413375,Basket Femenino
+NULL,5719097,Basket Femenino
+NULL,6246092,Basket Femenino
+NULL,7035851,Basket Femenino
+NULL,6246266,Basket Masculino
+NULL,5286482,Basket Masculino
+NULL,6846877,Basket Masculino
+NULL,5212352,Basket Masculino
+NULL,5712942,Basket Masculino
+NULL,6100098,Basket Masculino
+NULL,5979909,Basket Masculino
+NULL,6215651,Basket Masculino
+NULL,5511351,Basket Masculino
+NULL,5796903,Basket Masculino
+NULL,552133,Basket Masculino
+NULL,5612119,Basket Masculino
+NULL,5612936,Basket Masculino
+NULL,5348354,Futbol Femenino
+NULL,5719038,Futbol Femenino
+NULL,5758983,Futbol Femenino
+NULL,5644186,Futbol Femenino
+NULL,5616196,Futbol Femenino
+NULL,5758983,Futbol Femenino
+NULL,5976084,Futbol Femenino
+NULL,5704806,Futbol Femenino
+NULL,5621849,Futbol Femenino
+NULL,5571708,Futbol Femenino
+NULL,5934291,Futbol Femenino
+NULL,5963202,Futbol Femenino
+NULL,5960166,Futbol Femenino
+NULL,5741159,Futbol Femenino
+NULL,5719097,Futbol Femenino
+NULL,5862617,Futbol Femenino
+NULL,6217920,Futbol Femenino
+NULL,6195405,Futbol Femenino
+NULL,5796903,Futbol Masculino
+NULL,6846877,Futbol Masculino
+NULL,5286482,Futbol Masculino
+NULL,5712942,Futbol Masculino
+NULL,5212352,Futbol Masculino
+NULL,6246266,Futbol Masculino
+NULL,5979909,Futbol Masculino
+NULL,5714000,Futbol Masculino
+NULL,6215651,Futbol Masculino
+NULL,5664655,Futbol Masculino
+NULL,5934549,Futbol Masculino
+NULL,5612119,Futbol Masculino
+NULL,7032848,Futbol Masculino
+NULL,5612936,Futbol Masculino
+NULL,6110704,Futbol Masculino
+NULL,6521664,Futbol Masculino
+NULL,5719038,Volley Masculino
+NULL,5286482,Volley Masculino
+NULL,5438621,Volley Masculino
+NULL,5712942,Volley Masculino
+NULL,6005865,Volley Masculino
+NULL,6246266,Volley Masculino
+NULL,5979909,Volley Masculino
+NULL,6846877,Volley Masculino
+NULL,5714000,Volley Masculino
+NULL,5511351,Volley Masculino
+NULL,5664655,Volley Masculino
+NULL,5612119,Volley Masculino
+NULL,6521664,Volley Masculino
+NULL,6110704,Volley Masculino
+NULL,5348354,Volley Femenino
+NULL,5539313,Volley Femenino
+NULL,5758983,Volley Femenino
+NULL,5436476,Volley Femenino
+NULL,5931156,Volley Femenino
+NULL,5647120,Volley Femenino
+NULL,5644186,Volley Femenino
+NULL,5719038,Volley Femenino
+NULL,5862617,Volley Femenino
+NULL,5741159,Volley Femenino
+NULL,5963202,Volley Femenino
+NULL,5719097,Volley Femenino
+NULL,5609022,Volley Femenino
+NULL,6246092,Volley Femenino
+NULL,7312146,Volley Femenino
+NULL,5403921,Futsal
+NULL,5277177,Futsal
+NULL,6547405,Futsal
+NULL,6251759,Futsal
+NULL,5660300,Futsal
+NULL,7311138,Futsal
+NULL,5794774,Futsal
+NULL,5452449,Futsal
+NULL,6189190,Futsal
+NULL,5283173,Futsal
+NULL,6141879,Futsal
+NULL,6157680,Futsal
+NULL,5667699,Futsal
+NULL,5403921,Futbol Masculino
+NULL,5277177,Futbol Masculino
+NULL,6547405,Futbol Masculino
+NULL,5773895,Futbol Masculino
+NULL,6251759,Futbol Masculino
+NULL,5660300,Futbol Masculino
+NULL,7311138,Futbol Masculino
+NULL,5794774,Futbol Masculino
+NULL,5387782,Futbol Masculino
+NULL,5678163,Futbol Masculino
+NULL,5452449,Futbol Masculino
+NULL,6532796,Futbol Masculino
+NULL,6189190,Futbol Masculino
+NULL,5283173,Futbol Masculino
+NULL,6141879,Futbol Masculino
+NULL,6157680,Futbol Masculino
+NULL,5659889,Futbol Masculino
+NULL,5324307,Futbol Masculino
+NULL,5660270,Futbol Femenino
+NULL,3706925,Futbol Femenino
+NULL,5870363,Futbol Femenino
+NULL,5424890,Futbol Femenino
+NULL,6156810,Futbol Femenino
+NULL,6510824,Futbol Femenino
+NULL,5794797,Futbol Femenino
+NULL,5677964,Futbol Femenino
+NULL,5446358,Futbol Femenino
+NULL,6130839,Futbol Femenino
+NULL,5419695,Futbol Femenino
+NULL,3693456,Futbol Femenino
+NULL,5360967,Futbol Femenino
+NULL,5789460,Futbol Femenino
+NULL,5313980,Futbol Femenino
+NULL,8678671,Futbol Femenino
+NULL,5730570,Futbol Femenino
+NULL,6215511,Futbol Femenino
+NULL,6574533,Futbol Femenino
+NULL,7927312,Basket Masculino
+NULL,5678312,Basket Masculino
+NULL,6802491,Basket Masculino
+NULL,5442051,Basket Masculino
+NULL,5703127,Basket Masculino
+NULL,5297815,Basket Masculino
+NULL,5324307,Basket Masculino
+NULL,5794775,Basket Masculino
+NULL,6193421,Basket Masculino
+NULL,7831426,Basket Masculino
+NULL,6532796,Basket Masculino
+NULL,6251759,Basket Masculino
+NULL,5738094,Basket Masculino
+NULL,6004489,Basket Masculino
+NULL,5693456,Basket Femenino
+NULL,5660270,Basket Femenino
+NULL,6109784,Basket Femenino
+NULL,5705296,Basket Femenino
+NULL,5754735,Basket Femenino
+NULL,5309571,Basket Femenino
+NULL,5360967,Basket Femenino
+NULL,5860439,Basket Femenino
+NULL,5669015,Basket Femenino
+NULL,8678671,Basket Femenino
+NULL,5789460,Basket Femenino
+NULL,6521826,Basket Femenino
+NULL,5586533,Handball
+NULL,5677964,Handball
+NULL,5693456,Handball
+NULL,5360967,Handball
+NULL,5309571,Handball
+NULL,5705296,Handball
+NULL,5836783,Handball
+NULL,6668259,Handball
+NULL,5660270,Handball
+NULL,6574533,Handball
+NULL,6510824,Handball
+NULL,5310238,Handball
+NULL,5910592,Handball
+NULL,5730570,Handball
+NULL,6010060,Volley Femenino
+NULL,5424890,Volley Femenino
+NULL,5693456,Volley Femenino
+NULL,5660270,Volley Femenino
+NULL,6311566,Volley Femenino
+NULL,6668259,Volley Femenino
+NULL,6510824,Volley Femenino
+NULL,5446358,Volley Femenino
+NULL,5836783,Volley Femenino
+NULL,6156810,Volley Femenino
+NULL,6215511,Volley Femenino
+NULL,5776819,Volley Femenino
+NULL,6113092,Volley Femenino
+NULL,5794774,Volley Masculino
+NULL,6547405,Volley Masculino
+NULL,5297815,Volley Masculino
+NULL,5773895,Volley Masculino
+NULL,6112190,Volley Masculino
+NULL,5346388,Volley Masculino
+NULL,5659889,Volley Masculino
+NULL,5592558,Volley Masculino
+NULL,5378398,Volley Masculino
+NULL,5748308,Volley Masculino
+NULL,5434790,Volley Masculino
+NULL,5347085,Volley Masculino
+NULL,6046178,Handball
+NULL,6521758,Handball
+NULL,7045697,Handball
+NULL,6543285,Handball
+NULL,5781718,Handball
+NULL,5967504,Handball
+NULL,6004580,Handball
+NULL,5440167,Handball
+NULL,5935913,Handball
+NULL,5907243,Handball
+NULL,5386381,Handball
+NULL,6129104,Handball
+NULL,6776105,Handball
+NULL,6192755,Handball
+NULL,6846633,Handball
+NULL,5488876,Volley Femenino
+NULL,6521758,Volley Femenino
+NULL,7045697,Volley Femenino
+NULL,6192755,Volley Femenino
+NULL,5781718,Volley Femenino
+NULL,5967504,Volley Femenino
+NULL,6004580,Volley Femenino
+NULL,5777938,Volley Femenino
+NULL,5935913,Volley Femenino
+NULL,5907243,Volley Femenino
+NULL,5386381,Volley Femenino
+NULL,6129104,Volley Femenino
+NULL,6776105,Volley Femenino
+NULL,5812763,Volley Femenino
+NULL,5280614,Volley Femenino
+NULL,6046180,Futsal
+NULL,5867448,Futsal
+NULL,6537880,Futsal
+NULL,5984696,Futsal
+NULL,7501725,Futsal
+NULL,5445954,Futsal
+NULL,5279370,Futsal
+NULL,6156901,Futsal
+NULL,8260682,Futsal
+NULL,7023990,Futsal
+NULL,6215211,Futsal
+NULL,6773989,Futsal
+NULL,5361972,Futsal
+NULL,6129808,Futsal
+NULL,5456125,Futsal
+NULL,5488876,Futbol Femenino
+NULL,6046178,Futbol Femenino
+NULL,5273736,Futbol Femenino
+NULL,5280614,Futbol Femenino
+NULL,5278387,Futbol Femenino
+NULL,6004580,Futbol Femenino
+NULL,5481887,Futbol Femenino
+NULL,5481888,Futbol Femenino
+NULL,5780623,Futbol Femenino
+NULL,7045697,Futbol Femenino
+NULL,5777938,Futbol Femenino
+NULL,5967504,Futbol Femenino
+NULL,5935913,Futbol Femenino
+NULL,6521758,Futbol Femenino
+NULL,5440167,Futbol Femenino
+NULL,5781718,Futbol Femenino
+NULL,5613100,Futbol Femenino
+NULL,6010347,Volley Masculino
+NULL,6010345,Volley Masculino
+NULL,8285440,Volley Masculino
+NULL,5293935,Volley Masculino
+NULL,5305917,Volley Masculino
+NULL,6313097,Volley Masculino
+NULL,5248503,Volley Masculino
+NULL,5277015,Volley Masculino
+NULL,55246027,Volley Masculino
+NULL,6813400,Volley Masculino
+NULL,5445176,Futbol Masculino
+NULL,5569866,Futbol Masculino
+NULL,5615937,Futbol Masculino
+NULL,5277015,Futbol Masculino
+NULL,6313097,Futbol Masculino
+NULL,5442812,Futbol Masculino
+NULL,5305917,Futbol Masculino
+NULL,7187571,Futbol Masculino
+NULL,5777788,Futbol Masculino
+NULL,6040605,Futbol Masculino
+NULL,57107615,Futbol Masculino
+NULL,6010345,Futbol Masculino
+NULL,6010347,Futbol Masculino
+NULL,5866851,Futbol Masculino
+NULL,5963423,Volley Femenino
+NULL,5814442,Volley Femenino
+NULL,6156909,Volley Femenino
+NULL,5898827,Volley Femenino
+NULL,5674301,Volley Femenino
+NULL,5705285,Volley Femenino
+NULL,5966316,Volley Femenino
+NULL,5866850,Volley Femenino
+NULL,5554965,Volley Femenino
+NULL,5391792,Volley Femenino
+NULL,5556071,Volley Femenino
+NULL,5989059,Basket Femenino
+NULL,5266737,Basket Femenino
+NULL,5266738,Basket Femenino
+NULL,499624602,Basket Femenino
+NULL,5279317,Basket Femenino
+NULL,5616964,Basket Femenino
+NULL,5705308,Basket Femenino
+NULL,6185206,Basket Femenino
+NULL,5678207,Basket Femenino
+NULL,6082643,Basket Femenino
+NULL,5737160,Basket Femenino
+NULL,5900519,Basket Femenino
+NULL,6625291,Basket Femenino
+NULL,5706661,Basket Femenino
+NULL,5908432,Basket Femenino
+NULL,6501312,Basket Masculino
+NULL,5351809,Basket Masculino
+NULL,5226942,Basket Masculino
+NULL,5608691,Basket Masculino
+NULL,535334658,Basket Masculino
+NULL,5648573,Basket Masculino
+NULL,5376355,Basket Masculino
+NULL,6524505,Basket Masculino
+NULL,5346841,Basket Masculino
+NULL,6554080,Basket Masculino
+NULL,5770926,Basket Masculino
+NULL,5321675,Basket Masculino
+NULL,5938336,Basket Masculino
+NULL,5389149,Futsal
+NULL,6183665,Futsal
+NULL,5549195,Futsal
+NULL,5708178,Futsal
+NULL,5708176,Futsal
+NULL,5791102,Futsal
+NULL,535334658,Futsal
+NULL,6510879,Futsal
+NULL,5591838,Futsal
+NULL,5376355,Futsal
+NULL,5435980,Futsal
+NULL,5647912,Futsal
+NULL,5723787,Futsal
+NULL,5569262,Futsal
+NULL,5527374,Futsal
+NULL,7655115,Handball
+NULL,6716880,Handball
+NULL,5266737,Handball
+NULL,499624602,Handball
+NULL,5420190,Handball
+NULL,6521412,Handball
+NULL,6185206,Handball
+NULL,6743099,Handball
+NULL,5796444,Handball
+NULL,5678207,Handball
+NULL,6218502,Handball
+NULL,6194091,Handball
+NULL,6590882,Handball
+NULL,6625291,Handball
+NULL,6743847,Handball
+NULL,5789466,Volley Femenino
+NULL,5650864,Volley Femenino
+NULL,5354660,Volley Femenino
+NULL,5304820,Volley Femenino
+NULL,5449502,Volley Femenino
+NULL,6216406,Volley Femenino
+NULL,499624602,Volley Femenino
+NULL,5593502,Volley Femenino
+NULL,5692081,Volley Femenino
+NULL,5478182,Volley Femenino
+NULL,6529142,Volley Femenino
+NULL,5677127,Volley Femenino
+NULL,6218502,Volley Femenino
+NULL,5961612,Volley Femenino
+NULL,5798667,Volley Femenino
+NULL,5351809,Volley Masculino
+NULL,5226942,Volley Masculino
+NULL,6102160,Volley Masculino
+NULL,5608691,Volley Masculino
+NULL,6501312,Volley Masculino
+NULL,5708178,Volley Masculino
+NULL,5708176,Volley Masculino
+NULL,5591838,Volley Masculino
+NULL,5346841,Volley Masculino
+NULL,5948656,Volley Masculino
+NULL,529239805,Volley Masculino
+NULL,5558387,Volley Masculino
+NULL,5285940,Volley Masculino
+NULL,5938336,Volley Masculino
+NULL,5481615,Volley Masculino
+NULL,7393472,Futsal
+NULL,7079283,Futsal
+NULL,5492101,Futsal
+NULL,5611210,Futsal
+NULL,6540623,Futsal
+NULL,5891999,Futsal
+NULL,5815233,Futsal
+NULL,7049197,Futsal
+NULL,7049196,Futsal
+NULL,6181922,Futsal
+NULL,6548760,Futsal
+NULL,5611894,Futsal
+NULL,5795907,Futsal
+NULL,5511073,Futsal
+NULL,7735398,Futsal
+NULL,6547005,Futsal
+NULL,5379631,Handball
+NULL,5662147,Handball
+NULL,5932828,Handball
+NULL,7610793,Handball
+NULL,6632239,Handball
+NULL,6532232,Handball
+NULL,6563763,Handball
+NULL,6607192,Handball
+NULL,6220517,Handball
+NULL,7078215,Handball
+NULL,5846970,Handball
+NULL,6519584,Handball
+NULL,6519580,Handball
+NULL,5688616,Handball
+NULL,5714917,Handball
+NULL,6797191,Handball
+NULL,7288928,Handball
+NULL,6163142,Handball
+NULL,5644343,Handball
+NULL,7360824,Handball
+NULL,5677059,Handball
+NULL,5867151,Handball
+NULL,6282880,Handball
+NULL,6014551,Handball
+NULL,6778887,Handball
+NULL,6123271,Handball
+NULL,6282650,Handball
+NULL,6234382,Handball
+NULL,6704544,Handball
+NULL,7023194,Handball
+NULL,8706932,Handball
+NULL,6573177,Handball
+NULL,6718987,Handball
+NULL,6967398,Handball
+NULL,6503814,Futbol Masculino
+NULL,6638316,Futbol Masculino
+NULL,5386164,Futbol Masculino
+NULL,5527308,Futbol Masculino
+NULL,5551819,Futbol Masculino
+NULL,5422134,Futbol Masculino
+NULL,6538075,Futbol Masculino
+NULL,5482059,Futbol Masculino
+NULL,5647621,Futbol Masculino
+NULL,5879685,Futbol Masculino
+NULL,6706716,Futbol Masculino
+NULL,5837759,Futbol Masculino
+NULL,6289562,Futbol Masculino
+NULL,8736780,Futbol Masculino
+NULL,6182995,Futbol Masculino
+NULL,6141279,Futbol Masculino
+NULL,6111369,Futbol Masculino
+NULL,5448855,Futbol Masculino
+NULL,6044068,Futbol Masculino
+NULL,6897282,Futbol Masculino
+NULL,5615293,Futbol Masculino
+NULL,5690926,Futbol Masculino
+NULL,5429498,Futbol Masculino
+NULL,6044069,Futbol Masculino
+NULL,5632202,Futbol Masculino
+NULL,5795721,Futbol Masculino
+NULL,5991559,Futbol Masculino
+NULL,5615292,Futbol Masculino
+NULL,5611870,Futbol Masculino
+NULL,5661196,Futbol Masculino
+NULL,5748243,Futbol Masculino
+NULL,5406902,Futbol Masculino
+NULL,5640691,Futbol Masculino
+NULL,5963323,Futbol Masculino
+NULL,6360998,Futbol Masculino
+NULL,5437583,Futbol Masculino
+NULL,5689172,Futbol Masculino
+NULL,6523873,Futbol Masculino
+NULL,6046398,Futbol Femenino
+NULL,5425652,Futbol Femenino
+NULL,6221109,Futbol Femenino
+NULL,5867296,Futbol Femenino
+NULL,5460627,Futbol Femenino
+NULL,6141612,Futbol Femenino
+NULL,5934760,Futbol Femenino
+NULL,5643101,Futbol Femenino
+NULL,5280807,Futbol Femenino
+NULL,5759155,Futbol Femenino
+NULL,5290698,Futbol Femenino
+NULL,7183508,Futbol Femenino
+NULL,6568304,Futbol Femenino
+NULL,5995339,Futbol Femenino
+NULL,5838797,Futbol Femenino
+NULL,6254086,Futbol Femenino
+NULL,5435964,Futbol Femenino
+NULL,5664136,Futbol Femenino
+NULL,6291247,Futbol Femenino
+NULL,6552095,Futbol Femenino
+NULL,6673451,Futbol Femenino
+NULL,5648522,Futbol Femenino
+NULL,5837099,Futbol Femenino
+NULL,5438992,Basket Masculino
+NULL,5438460,Basket Masculino
+NULL,5964333,Basket Masculino
+NULL,5306855,Basket Masculino
+NULL,5777931,Basket Masculino
+NULL,6099454,Basket Masculino
+NULL,6155556,Basket Masculino
+NULL,5727936,Basket Masculino
+NULL,5720851,Basket Masculino
+NULL,5931683,Basket Masculino
+NULL,6115031,Basket Masculino
+NULL,6308771,Basket Masculino
+NULL,6361698,Basket Masculino
+NULL,5663423,Basket Masculino
+NULL,6574305,Basket Masculino
+NULL,5461287,Volley Masculino
+NULL,5660066,Volley Masculino
+NULL,6049797,Volley Masculino
+NULL,5645633,Volley Masculino
+NULL,5489684,Volley Masculino
+NULL,5965779,Volley Masculino
+NULL,5282942,Volley Masculino
+NULL,6013931,Volley Masculino
+NULL,6284327,Volley Masculino
+NULL,5572344,Volley Masculino
+NULL,6541442,Volley Masculino
+NULL,5862190,Volley Masculino
+NULL,5870550,Volley Masculino
+NULL,5270217,Volley Masculino
+NULL,5907940,Volley Masculino
+NULL,64641659,Volley Masculino
+NULL,5445184,Volley Masculino
+NULL,5434839,Basket Femenino
+NULL,5489247,Basket Femenino
+NULL,5658792,Basket Femenino
+NULL,5390994,Basket Femenino
+NULL,5435073,Basket Femenino
+NULL,5574510,Basket Femenino
+NULL,5527952,Basket Femenino
+NULL,5352165,Basket Femenino
+NULL,5376202,Basket Femenino
+NULL,6966221,Basket Femenino
+NULL,5668028,Basket Femenino
+NULL,6013490,Basket Femenino
+NULL,5376202,Futbol Femenino
+NULL,5489685,Futbol Femenino
+NULL,5658792,Futbol Femenino
+NULL,5668028,Futbol Femenino
+NULL,5434839,Futbol Femenino
+NULL,5574510,Futbol Femenino
+NULL,6155675,Futbol Femenino
+NULL,6540852,Futbol Femenino
+NULL,5794060,Futbol Femenino
+NULL,6215978,Futbol Femenino
+NULL,7998411,Futbol Femenino
+NULL,5419629,Futbol Femenino
+NULL,5490255,Futbol Femenino
+NULL,5252031,Futbol Femenino
+NULL,5285341,Futbol Femenino
+NULL,6013490,Futbol Femenino
+NULL,5442434,Futbol Femenino
+NULL,5963292,Futbol Femenino
+NULL,6155380,Futbol Femenino
+NULL,5442297,Futbol Femenino
+NULL,5285363,Futbol Masculino
+NULL,5320944,Futbol Masculino
+NULL,5253533,Futbol Masculino
+NULL,5421400,Futbol Masculino
+NULL,5646227,Futbol Masculino
+NULL,5934897,Futbol Masculino
+NULL,6247582,Futbol Masculino
+NULL,6004807,Futbol Masculino
+NULL,6356876,Futbol Masculino
+NULL,6541442,Futbol Masculino
+NULL,5741800,Futbol Masculino
+NULL,5358457,Futbol Masculino
+NULL,5645633,Futbol Masculino
+NULL,5707574,Futbol Masculino
+NULL,5590834,Futbol Masculino
+NULL,6246617,Futbol Masculino
+NULL,5255847,Futbol Masculino
+NULL,5461287,Futbol Masculino
+NULL,5742044,Futbol Masculino
+NULL,64641659,Futbol Masculino
+NULL,5445184,Futbol Masculino
+NULL,5658792,Handball
+NULL,6013490,Handball
+NULL,5574510,Handball
+NULL,5479863,Handball
+NULL,5985472,Handball
+NULL,6614756,Handball
+NULL,5668028,Handball
+NULL,5434839,Handball
+NULL,5839022,Handball
+NULL,5935446,Handball
+NULL,5965305,Handball
+NULL,6009404,Handball
+NULL,6581920,Handball
+NULL,5932914,Handball
+NULL,6508214,Handball
+NULL,5285363,Futsal
+NULL,5253533,Futsal
+NULL,5320944,Futsal
+NULL,6004807,Futsal
+NULL,5421400,Futsal
+NULL,6541442,Futsal
+NULL,6247582,Futsal
+NULL,5934897,Futsal
+NULL,5358457,Futsal
+NULL,5741800,Futsal
+NULL,5645633,Futsal
+NULL,6246617,Futsal
+NULL,5646227,Futsal
+NULL,5590834,Futsal
+NULL,5738757,Basket Masculino
+NULL,5741800,Basket Masculino
+NULL,5542102,Basket Masculino
+NULL,5645633,Basket Masculino
+NULL,5965779,Basket Masculino
+NULL,5862190,Basket Masculino
+NULL,6132593,Basket Masculino
+NULL,5907940,Basket Masculino
+NULL,5441255,Basket Masculino
+NULL,64641659,Basket Masculino
+NULL,5445184,Basket Masculino
+NULL,5376202,Volley Femenino
+NULL,5658792,Volley Femenino
+NULL,5434839,Volley Femenino
+NULL,5574510,Volley Femenino
+NULL,6013490,Volley Femenino
+NULL,5963292,Volley Femenino
+NULL,6009404,Volley Femenino
+NULL,5935446,Volley Femenino
+NULL,5965305,Volley Femenino
+NULL,6195703,Volley Femenino
+NULL,5352165,Volley Femenino
+NULL,5985472,Volley Femenino
+NULL,5987335,Volley Femenino
+NULL,6048784,Volley Femenino
+NULL,5965855,Volley Femenino
+NULL,6513485,Volley Femenino
+NULL,6142545,Handball
+NULL,7217430,Handball
+NULL,6758790,Handball
+NULL,6688514,Handball
+NULL,6050742,Handball
+NULL,6288450,Handball
+NULL,8772475,Handball
+NULL,5527382,Handball
+NULL,5440079,Handball
+NULL,5934654,Handball
+NULL,6468088,Handball
+NULL,6745611,Handball
+NULL,4643980,Handball
+NULL,49153383,Handball
+NULL,6219178,Handball
+NULL,6732686,Handball
+NULL,5488421,Futbol Masculino
+NULL,172544088,Futbol Masculino
+NULL,5897856,Futbol Masculino
+NULL,5422323,Futbol Masculino
+NULL,5687944,Futbol Masculino
+NULL,5487738,Futbol Masculino
+NULL,5677167,Futbol Masculino
+NULL,46028768,Futbol Masculino
+NULL,6585469,Futbol Masculino
+NULL,46767602,Futbol Masculino
+NULL,6750714,Futbol Masculino
+NULL,5965321,Futbol Masculino
+NULL,6283200,Futbol Masculino
+NULL,6068874,Futbol Masculino
+NULL,6708966,Futbol Masculino
+NULL,6008567,Futbol Masculino
+NULL,6579729,Futbol Masculino
+NULL,7278330,Futbol Masculino
+NULL,5659421,Futbol Masculino
+NULL,5331601,Basket Masculino
+NULL,5418309,Basket Masculino
+NULL,5323011,Basket Masculino
+NULL,5522294,Basket Masculino
+NULL,5707165,Basket Masculino
+NULL,50327202,Basket Masculino
+NULL,5436164,Basket Masculino
+NULL,46398699,Basket Masculino
+NULL,5573135,Basket Masculino
+NULL,5456626,Basket Masculino
+NULL,5647278,Basket Masculino
+NULL,5281030,Basket Masculino
+NULL,1113713729,Basket Masculino
+NULL,5408964,Volley Masculino
+NULL,5663804,Volley Masculino
+NULL,6006566,Volley Masculino
+NULL,6157065,Volley Masculino
+NULL,5813685,Volley Masculino
+NULL,6193944,Volley Masculino
+NULL,17624878,Volley Masculino
+NULL,5616535,Volley Masculino
+NULL,6523889,Volley Masculino
+NULL,5294123,Volley Masculino
+NULL,5394446,Volley Masculino
+NULL,5870895,Volley Masculino
+NULL,5323011,Volley Masculino
+NULL,50327202,Volley Masculino
+NULL,5710024,Volley Masculino
+NULL,5616535,Futbol Masculino
+NULL,5294123,Futbol Masculino
+NULL,5482189,Futbol Masculino
+NULL,5511579,Futbol Masculino
+NULL,5851454,Futbol Masculino
+NULL,6287830,Futbol Masculino
+NULL,5646576,Futbol Masculino
+NULL,5458565,Futbol Masculino
+NULL,5446649,Futbol Masculino
+NULL,5772579,Futbol Masculino
+NULL,6760429,Futbol Masculino
+NULL,4757226,Futbol Masculino
+NULL,6220122,Futbol Masculino
+NULL,5965858,Futbol Masculino
+NULL,5644143,Futbol Masculino
+NULL,5456626,Futbol Masculino
+NULL,5724468,Futbol Masculino
+NULL,5378207,Futbol Masculino
+NULL,6114043,Futbol Masculino
+NULL,5959387,Futbol Masculino
+NULL,5302789,Futbol Masculino
+NULL,5573135,Futbol Masculino
+NULL,5279136,Futbol Masculino
+NULL,5994310,Futbol Masculino
+NULL,5688245,Futbol Masculino
+NULL,5294123,Futsal
+NULL,5772579,Futsal
+NULL,5482189,Futsal
+NULL,5851454,Futsal
+NULL,5724468,Futsal
+NULL,5511579,Futsal
+NULL,5498347,Futsal
+NULL,5446649,Futsal
+NULL,5616535,Futsal
+NULL,5965858,Futsal
+NULL,6760429,Futsal
+NULL,5898233,Futsal
+NULL,5255405,Futsal
+NULL,6114043,Futsal
+NULL,5959387,Futsal
+NULL,7027355,Basket Femenino
+NULL,5406940,Basket Femenino
+NULL,5863463,Basket Femenino
+NULL,5526723,Basket Femenino
+NULL,5483370,Basket Femenino
+NULL,5811263,Basket Femenino
+NULL,5988517,Basket Femenino
+NULL,6217912,Basket Femenino
+NULL,7415620,Basket Femenino
+NULL,5837783,Basket Femenino
+NULL,7047238,Basket Femenino
+NULL,5315168,Basket Femenino
+NULL,5775411,Basket Femenino
+NULL,5962911,Volley Femenino
+NULL,47031585,Volley Femenino
+NULL,5962871,Volley Femenino
+NULL,5930786,Volley Femenino
+NULL,5574732,Volley Femenino
+NULL,5758329,Volley Femenino
+NULL,5646575,Volley Femenino
+NULL,6569427,Volley Femenino
+NULL,6323237,Volley Femenino
+NULL,5898070,Volley Femenino
+NULL,5593381,Futbol Femenino
+NULL,5394042,Futbol Femenino
+NULL,6218386,Futbol Femenino
+NULL,5458117,Futbol Femenino
+NULL,8257169,Futbol Femenino
+NULL,5967704,Futbol Femenino
+NULL,5897884,Futbol Femenino
+NULL,5281879,Futbol Femenino
+NULL,5406940,Futbol Femenino
+NULL,5445755,Futbol Femenino
+NULL,6764285,Futbol Femenino
+NULL,5483370,Futbol Femenino
+NULL,5669909,Futbol Femenino
+NULL,5274879,Futbol Femenino
+NULL,5445161,Futbol Femenino
+NULL,5439706,Futbol Femenino
+NULL,5646575,Futbol Femenino
+NULL,5315168,Futbol Femenino
+NULL,5394593,Futbol Femenino
+NULL,7027355,Futbol Femenino
+NULL,5930742,Futbol Femenino
+NULL,5217848,Futbol Femenino
+NULL,5290759,Futbol Femenino
+NULL,5874898,Futbol Femenino
+NULL,5593381,Handball
+NULL,5967704,Handball
+NULL,5483370,Handball
+NULL,6764285,Handball
+NULL,5874898,Handball
+NULL,5837783,Handball
+NULL,5315168,Handball
+NULL,5685447,Handball
+NULL,5290759,Handball
+NULL,5960467,Handball
+NULL,5569572,Handball
+NULL,5714313,Handball
+NULL,5811263,Handball
+NULL,5669909,Handball
+NULL,6008840,Volley Masculino
+NULL,5685846,Volley Masculino
+NULL,6007582,Volley Masculino
+NULL,5628223,Volley Masculino
+NULL,5795469,Volley Masculino
+NULL,5795983,Volley Masculino
+NULL,5717786,Volley Masculino
+NULL,5705973,Volley Masculino
+NULL,5671465,Volley Masculino
+NULL,8239499,Volley Masculino
+NULL,6601028,Volley Masculino
+NULL,5782535,Volley Masculino
+NULL,5769763,Volley Masculino
+NULL,5440588,Volley Masculino
+NULL,5739054,Volley Masculino
+NULL,5740491,Volley Masculino
+NULL,7551881,Volley Masculino
+NULL,6247645,Volley Masculino
+NULL,5429545,Volley Masculino
+NULL,5724658,Volley Femenino
+NULL,7156338,Volley Femenino
+NULL,7153504,Volley Femenino
+NULL,5704140,Volley Femenino
+NULL,5555125,Volley Femenino
+NULL,5659290,Volley Femenino
+NULL,5795289,Volley Femenino
+NULL,5774805,Volley Femenino
+NULL,5596272,Volley Femenino
+NULL,5838535,Volley Femenino
+NULL,6217209,Volley Femenino
+NULL,5709440,Futsal
+NULL,7095654,Futsal
+NULL,5642469,Futsal
+NULL,5997362,Futsal
+NULL,5712831,Futsal
+NULL,6683527,Futsal
+NULL,5782535,Futsal
+NULL,5549318,Futsal
+NULL,5796630,Futsal
+NULL,6774705,Futsal
+NULL,6222990,Futsal
+NULL,6006787,Futsal
+NULL,5685846,Futsal
+NULL,7500872,Futsal
+NULL,6514693,Futsal
+NULL,5795310,Futsal
+NULL,7379146,Futsal
+NULL,5413299,Futsal
+NULL,5386657,Futsal
+NULL,5647155,Futsal
+NULL,5555199,Handball
+NULL,6593234,Handball
+NULL,5283793,Handball
+NULL,6591877,Handball
+NULL,5780079,Handball
+NULL,5678616,Handball
+NULL,6065138,Handball
+NULL,5607862,Handball
+NULL,8021419,Handball
+NULL,6569854,Handball
+NULL,6048211,Handball
+NULL,7342731,Handball
+NULL,5705810,Handball
+NULL,5784301,Basket Femenino
+NULL,5898607,Basket Femenino
+NULL,5481626,Basket Femenino
+NULL,5290190,Basket Femenino
+NULL,6010507,Basket Femenino
+NULL,7422287,Basket Masculino
+NULL,5418274,Basket Masculino
+NULL,5395635,Basket Masculino
+NULL,5685163,Basket Masculino
+NULL,5753826,Basket Masculino
+NULL,5797342,Basket Masculino
+NULL,5959798,Basket Masculino
+NULL,6370591,Basket Masculino
+NULL,5965714,Basket Masculino
+NULL,6179248,Basket Masculino
+NULL,5527343,Basket Masculino
+NULL,5851729,Basket Masculino
+NULL,6739785,Basket Masculino
+NULL,5558021,Basket Masculino
+NULL,6006787,Futbol Masculino
+NULL,5782535,Futbol Masculino
+NULL,6815402,Futbol Masculino
+NULL,6071945,Futbol Masculino
+NULL,5997362,Futbol Masculino
+NULL,7379146,Futbol Masculino
+NULL,5819382,Futbol Masculino
+NULL,5796630,Futbol Masculino
+NULL,5629397,Futbol Masculino
+NULL,5709440,Futbol Masculino
+NULL,6222990,Futbol Masculino
+NULL,5429545,Futbol Masculino
+NULL,5642469,Futbol Masculino
+NULL,8202634,Futbol Masculino
+NULL,6664514,Futbol Masculino
+NULL,6536840,Futbol Masculino
+NULL,5540613,Futbol Masculino
+NULL,5530972,Futbol Masculino
+NULL,5687030,Futbol Masculino
+NULL,6601028,Futbol Masculino
+NULL,5625487,Futbol Masculino
+NULL,5660164,Futbol Masculino
+NULL,6683527,Futbol Masculino
+NULL,5647155,Futbol Masculino
+NULL,5763862,Futbol Masculino
+NULL,6221109,Volley Femenino
+NULL,5559893,Volley Femenino
+NULL,6056398,Volley Femenino
+NULL,6114052,Volley Femenino
+NULL,5908030,Volley Femenino
+NULL,5707185,Volley Femenino
+NULL,5314603,Volley Femenino
+NULL,5855334,Volley Femenino
+NULL,5327581,Volley Femenino
+NULL,5290698,Volley Femenino
+NULL,5857872,Volley Masculino
+NULL,5448853,Volley Masculino
+NULL,6629666,Volley Masculino
+NULL,8208965,Volley Masculino
+NULL,6155556,Volley Masculino
+NULL,5990094,Volley Masculino
+NULL,5277165,Volley Masculino
+NULL,5643723,Volley Masculino
+NULL,6361698,Volley Masculino
+NULL,5774220,Volley Masculino
+NULL,5690926,Futbol Masculino
+NULL,6044069,Futbol Masculino
+NULL,5795721,Futbol Masculino
+NULL,6111369,Futbol Masculino
+NULL,6897282,Futbol Masculino
+NULL,5611870,Futbol Masculino
+NULL,6044068,Futbol Masculino
+NULL,5933031,Futbol Masculino
+NULL,5429498,Futbol Masculino
+NULL,5661196,Futbol Masculino
+NULL,6711948,Futbol Masculino
+NULL,5689172,Futbol Masculino
+NULL,5406902,Futbol Masculino
+NULL,5448855,Futbol Masculino
+NULL,6007573,Futbol Masculino
+NULL,5624051,Futbol Masculino
+NULL,6218895,Futbol Masculino
+NULL,5528447,Futbol Masculino
+NULL,5308592,Futbol Masculino
+NULL,5351460,Futbol Masculino
+NULL,5649640,Futbol Masculino
+NULL,7204845,Futbol Masculino
+NULL,5726921,Futbol Masculino
+NULL,5526670,Futbol Masculino
+NULL,5529955,Futbol Masculino
+NULL,6113210,Futbol Masculino
+NULL,6811085,Futbol Masculino
+NULL,5745843,Futbol Masculino
+NULL,6066094,Futbol Masculino
+NULL,5912473,Futbol Masculino
+NULL,5608433,Futbol Masculino
+NULL,5724054,Futbol Masculino
+NULL,5481640,Futbol Masculino
+NULL,5678539,Futbol Masculino
+NULL,5551674,Futbol Masculino
+NULL,5490012,Basket Masculino
+NULL,5863969,Basket Masculino
+NULL,5441364,Basket Masculino
+NULL,5441363,Basket Masculino
+NULL,5335188,Basket Masculino
+NULL,5353047,Basket Masculino
+NULL,6144240,Basket Masculino
+NULL,7378128,Basket Masculino
+NULL,5499815,Basket Masculino
+NULL,5535404,Basket Masculino
+NULL,6186447,Basket Masculino
+NULL,6289792,Basket Masculino
+NULL,6177281,Basket Masculino
+NULL,6070668,Basket Masculino
+NULL,7322709,Basket Masculino
+NULL,5435721,Volley Masculino
+NULL,5378827,Volley Masculino
+NULL,6217213,Volley Masculino
+NULL,5660372,Volley Masculino
+NULL,5493339,Volley Masculino
+NULL,5660528,Volley Masculino
+NULL,5778612,Volley Masculino
+NULL,5572541,Volley Masculino
+NULL,7036036,Volley Masculino
+NULL,5771018,Volley Masculino
+NULL,5651795,Volley Masculino
+NULL,5624051,Futsal
+NULL,6218895,Futsal
+NULL,5528447,Futsal
+NULL,5308592,Futsal
+NULL,5351460,Futsal
+NULL,6113210,Futsal
+NULL,7204845,Futsal
+NULL,5726921,Futsal
+NULL,5526670,Futsal
+NULL,551674,Futsal
+NULL,5481640,Futsal
+NULL,6811085,Futsal
+NULL,5745843,Futsal
+NULL,5912473,Futsal
+NULL,5724054,Futsal
+NULL,5293795,Volley Femenino
+NULL,5280612,Volley Femenino
+NULL,6196783,Volley Femenino
+NULL,5441551,Volley Femenino
+NULL,5795356,Volley Femenino
+NULL,5440712,Volley Femenino
+NULL,5353707,Volley Femenino
+NULL,5647441,Volley Femenino
+NULL,6143685,Volley Femenino
+NULL,5611134,Volley Femenino
+NULL,6003614,Volley Femenino
+NULL,5333954,Volley Femenino
+NULL,6103367,Volley Femenino
+NULL,5135165,Handball
+NULL,5435685,Handball
+NULL,5615991,Handball
+NULL,5611134,Handball
+NULL,5440712,Handball
+NULL,5290138,Handball
+NULL,5353707,Handball
+NULL,5558008,Handball
+NULL,5874900,Handball
+NULL,5441551,Handball
+NULL,5418233,Handball
+NULL,5897008,Handball
+NULL,5529221,Handball
+NULL,5989576,Handball
+NULL,5811901,Futbol Masculino
+NULL,5392782,Futbol Masculino
+NULL,5648350,Futbol Masculino
+NULL,7835841,Futbol Masculino
+NULL,5282338,Futbol Masculino
+NULL,5421527,Futbol Masculino
+NULL,5143148,Futbol Masculino
+NULL,6114417,Futbol Masculino
+NULL,5712500,Futbol Masculino
+NULL,5985600,Futbol Masculino
+NULL,5737114,Futbol Masculino
+NULL,5418787,Futbol Masculino
+NULL,5812762,Futbol Masculino
+NULL,5310680,Futbol Masculino
+NULL,5123768,Futbol Masculino
+NULL,5932808,Futbol Masculino
+NULL,5279578,Futbol Masculino
+NULL,5647243,Futbol Masculino
+NULL,5352855,Futbol Masculino
+NULL,5574645,Futbol Masculino
+NULL,5438327,Futbol Masculino
+NULL,5705427,Futbol Masculino
+NULL,5349332,Volley Masculino
+NULL,5389481,Volley Masculino
+NULL,5991377,Volley Masculino
+NULL,6255717,Volley Masculino
+NULL,6040406,Volley Masculino
+NULL,5421527,Volley Masculino
+NULL,5815044,Volley Masculino
+NULL,5574533,Volley Masculino
+NULL,6526193,Volley Masculino
+NULL,5451350,Volley Masculino
+NULL,6181875,Volley Masculino
+NULL,5932808,Volley Masculino
+NULL,6217253,Volley Masculino
+NULL,5648428,Volley Masculino
+NULL,5738907,Volley Masculino
+NULL,5435685,Futbol Femenino
+NULL,5135165,Futbol Femenino
+NULL,5529221,Futbol Femenino
+NULL,6548027,Futbol Femenino
+NULL,5379920,Futbol Femenino
+NULL,5422936,Futbol Femenino
+NULL,5441551,Futbol Femenino
+NULL,5440712,Futbol Femenino
+NULL,5418381,Futbol Femenino
+NULL,5445135,Futbol Femenino
+NULL,6103367,Futbol Femenino
+NULL,5127460,Futbol Femenino
+NULL,5290138,Futbol Femenino
+NULL,5302986,Futbol Femenino
+NULL,6144746,Futbol Femenino
+NULL,5564893,Futbol Femenino
+NULL,6109118,Futbol Femenino
+NULL,5348721,Futbol Femenino
+NULL,5811901,Futsal
+NULL,5648350,Futsal
+NULL,7835841,Futsal
+NULL,5282338,Futsal
+NULL,5421527,Futsal
+NULL,5143148,Futsal
+NULL,6114417,Futsal
+NULL,5985600,Futsal
+NULL,5812762,Futsal
+NULL,5123768,Futsal
+NULL,5279578,Futsal
+NULL,5352855,Futsal
+NULL,5438327,Futsal
+NULL,5705427,Futsal
+NULL,6217223,Basket Masculino
+NULL,5449642,Basket Masculino
+NULL,6502407,Basket Masculino
+NULL,5418787,Basket Masculino
+NULL,5286393,Basket Masculino
+NULL,5655157,Basket Masculino
+NULL,6114932,Basket Masculino
+NULL,6254895,Basket Masculino
+NULL,6217210,Basket Masculino
+NULL,5497505,Basket Masculino
+NULL,5938066,Basket Masculino
+NULL,6252251,Basket Masculino
+NULL,6530971,Basket Masculino
+NULL,5938067,Basket Masculino
+NULL,5457083,Basket Masculino
+NULL,6215381,Futsal
+NULL,5864559,Futsal
+NULL,8279510,Futsal
+NULL,5388285,Futsal
+NULL,5299367,Futsal
+NULL,5712468,Futsal
+NULL,6026394,Futsal
+NULL,5709963,Futsal
+NULL,5530554,Futsal
+NULL,6555969,Futsal
+NULL,5304479,Futsal
+NULL,6032863,Futsal
+NULL,7348694,Futsal
+NULL,5551875,Futsal
+NULL,5426866,Futsal
+NULL,5445750,Volley Femenino
+NULL,5729424,Volley Femenino
+NULL,5723525,Volley Femenino
+NULL,6068465,Volley Femenino
+NULL,7926060,Volley Femenino
+NULL,6144389,Volley Femenino
+NULL,5627582,Volley Femenino
+NULL,5445750,Handball
+NULL,5723525,Handball
+NULL,6068465,Handball
+NULL,5729424,Handball
+NULL,6208949,Handball
+NULL,6996288,Handball
+NULL,6312769,Handball
+NULL,7926060,Handball
+NULL,6994723,Handball
+NULL,5591748,Volley Masculino
+NULL,8731269,Volley Masculino
+NULL,6660713,Volley Masculino
+NULL,6068043,Volley Masculino
+NULL,5611805,Volley Masculino
+NULL,6050942,Volley Masculino
+NULL,5701368,Volley Masculino
+NULL,6254699,Volley Masculino
+NULL,6192057,Volley Masculino
+NULL,5596257,Handball
+NULL,5767413,Handball
+NULL,6512026,Handball
+NULL,5502833,Handball
+NULL,6525796,Handball
+NULL,7526350,Handball
+NULL,5451256,Handball
+NULL,5390144,Handball
+NULL,5714909,Handball
+NULL,6527148,Handball
+NULL,6217132,Handball
+NULL,7022213,Handball
+NULL,5959783,Handball
+NULL,5721792,Handball
+NULL,6700829,Handball
+NULL,6614866,Handball
+NULL,6627767,Handball
+NULL,6771737,Handball
+NULL,5933179,Handball
+NULL,5287040,Futsal
+NULL,5666656,Futsal
+NULL,5442098,Futsal
+NULL,5511498,Futsal
+NULL,5420783,Futsal
+NULL,5360602,Futsal
+NULL,6156863,Futsal
+NULL,6538203,Futsal
+NULL,5552673,Futsal
+NULL,6011877,Futsal
+NULL,5644867,Futsal
+NULL,6289711,Futsal
+NULL,5931355,Futsal
+NULL,5482019,Futsal
+NULL,5287040,Futbol Masculino
+NULL,5666656,Futbol Masculino
+NULL,5442098,Futbol Masculino
+NULL,5420783,Futbol Masculino
+NULL,5596545,Futbol Masculino
+NULL,5552673,Futbol Masculino
+NULL,5872777,Futbol Masculino
+NULL,5572909,Futbol Masculino
+NULL,6538203,Futbol Masculino
+NULL,5360602,Futbol Masculino
+NULL,5899115,Futbol Masculino
+NULL,6554999,Futbol Masculino
+NULL,5674211,Futbol Masculino
+NULL,6156863,Futbol Masculino
+NULL,5498217,Futbol Masculino
+NULL,6748229,Futbol Masculino
+NULL,5909985,Futbol Masculino
+NULL,5810423,Futbol Masculino
+NULL,5967903,Futbol Masculino
+NULL,5677273,Futbol Masculino
+NULL,5959783,Futbol Femenino
+NULL,5877494,Futbol Femenino
+NULL,5714909,Futbol Femenino
+NULL,5677842,Futbol Femenino
+NULL,5711447,Futbol Femenino
+NULL,5502833,Futbol Femenino
+NULL,5721792,Futbol Femenino
+NULL,5678978,Futbol Femenino
+NULL,5458878,Futbol Femenino
+NULL,5246590,Futbol Femenino
+NULL,6008020,Futbol Femenino
+NULL,5652141,Futbol Femenino
+NULL,5554069,Futbol Femenino
+NULL,5596257,Futbol Femenino
+NULL,7030864,Futbol Femenino
+NULL,6511740,Futbol Femenino
+NULL,6614866,Futbol Femenino
+NULL,6217392,Futbol Femenino
+NULL,6507349,Volley Femenino
+NULL,7022213,Volley Femenino
+NULL,6048702,Volley Femenino
+NULL,6023605,Volley Femenino
+NULL,6005303,Volley Femenino
+NULL,7319092,Volley Femenino
+NULL,6013878,Volley Femenino
+NULL,6762806,Volley Femenino
+NULL,5442865,Volley Femenino
+NULL,6779612,Volley Femenino
+NULL,5434661,Volley Femenino
+NULL,6255626,Volley Femenino
+NULL,6041880,Volley Femenino
+NULL,6048711,Volley Femenino
+NULL,7547021,Basket Masculino
+NULL,5438461,Basket Masculino
+NULL,5461105,Basket Masculino
+NULL,5775015,Basket Masculino
+NULL,6051187,Basket Masculino
+NULL,5990031,Basket Masculino
+NULL,5361494,Basket Masculino
+NULL,6510270,Basket Masculino
+NULL,6508411,Basket Masculino
+NULL,5929595,Basket Masculino
+NULL,6153931,Basket Masculino
+NULL,5422462,Basket Masculino
+NULL,6095334,Basket Masculino
+NULL,6052632,Basket Masculino
+NULL,5531225,Basket Masculino
+NULL,5575765,Basket Masculino
+NULL,6109691,Basket Masculino
+NULL,5882363,Basket Masculino
+NULL,6308880,Basket Femenino
+NULL,6252155,Basket Femenino
+NULL,6782604,Basket Femenino
+NULL,6029673,Basket Femenino
+NULL,6700829,Basket Femenino
+NULL,6246800,Basket Femenino
+NULL,6197005,Basket Femenino
+NULL,6284229,Basket Femenino
+NULL,6286417,Basket Femenino
+NULL,6155580,Basket Femenino
+NULL,5739818,Basket Masculino
+NULL,6101614,Basket Masculino
+NULL,5276091,Basket Masculino
+NULL,5440661,Basket Masculino
+NULL,6825603,Basket Masculino
+NULL,6562647,Basket Masculino
+NULL,5266172,Basket Masculino
+NULL,5909782,Basket Masculino
+NULL,5708994,Basket Masculino
+NULL,6004730,Basket Masculino
+NULL,5728533,Basket Masculino
+NULL,5766596,Basket Masculino
+NULL,7454569,Futbol Masculino
+NULL,5739818,Futbol Masculino
+NULL,6326623,Futbol Masculino
+NULL,7303424,Futbol Masculino
+NULL,6042008,Futbol Masculino
+NULL,6101614,Futbol Masculino
+NULL,5728571,Futbol Masculino
+NULL,5276091,Futbol Masculino
+NULL,5440661,Futbol Masculino
+NULL,5282352,Futbol Masculino
+NULL,6825603,Futbol Masculino
+NULL,6517367,Futbol Masculino
+NULL,5664618,Futbol Masculino
+NULL,5445336,Futbol Masculino
+NULL,6742292,Futbol Masculino
+NULL,6536712,Futbol Masculino
+NULL,6316427,Futbol Masculino
+NULL,5714872,Futbol Masculino
+NULL,5866943,Futbol Masculino
+NULL,6129088,Futbol Masculino
+NULL,6316427,Futsal
+NULL,6326623,Futsal
+NULL,7303424,Futsal
+NULL,6042008,Futsal
+NULL,6101614,Futsal
+NULL,5728571,Futsal
+NULL,5276091,Futsal
+NULL,5440661,Futsal
+NULL,5282352,Futsal
+NULL,6825603,Futsal
+NULL,6517367,Futsal
+NULL,5664618,Futsal
+NULL,5445336,Futsal
+NULL,5866943,Futsal
+NULL,5714872,Futsal
+NULL,6516029,Volley Femenino
+NULL,6045780,Volley Femenino
+NULL,6139901,Volley Femenino
+NULL,6005340,Volley Femenino
+NULL,6283812,Volley Femenino
+NULL,6519904,Volley Femenino
+NULL,6521319,Volley Femenino
+NULL,7135600,Volley Femenino
+NULL,6802936,Volley Femenino
+NULL,7089173,Volley Femenino
+NULL,6047839,Volley Femenino
+NULL,6724133,Volley Femenino
+NULL,5739818,Volley Masculino
+NULL,5440661,Volley Masculino
+NULL,6101614,Volley Masculino
+NULL,5771953,Volley Masculino
+NULL,5454949,Volley Masculino
+NULL,6069480,Volley Masculino
+NULL,6123366,Volley Masculino
+NULL,6307068,Volley Masculino
+NULL,6521317,Volley Masculino
+NULL,6181977,Volley Masculino
+NULL,7757901,Volley Masculino
+NULL,6722249,Volley Masculino
+NULL,6600811,Volley Masculino
+NULL,7090947,Volley Masculino
+NULL,6292730,Handball
+NULL,5492266,Handball
+NULL,6019232,Handball
+NULL,6500336,Handball
+NULL,5445386,Handball
+NULL,6047624,Handball
+NULL,6992661,Handball
+NULL,5529288,Handball
+NULL,6838114,Handball
+NULL,5525787,Handball
+NULL,5577391,Handball
+NULL,6794205,Handball
+NULL,6145428,Handball
+NULL,6335955,Handball
+NULL,6007630,Handball
+NULL,6673858,Futsal
+NULL,6216343,Futsal
+NULL,6559417,Futsal
+NULL,5390200,Futsal
+NULL,6194470,Futsal
+NULL,5706059,Futsal
+NULL,6521950,Futsal
+NULL,7987733,Futsal
+NULL,5314797,Futsal
+NULL,5445173,Futsal
+NULL,6047721,Futsal
+NULL,6694851,Futsal
+NULL,5201127,Futsal
+NULL,6558594,Futsal
+NULL,5793150,Futsal
+NULL,6005107,Futsal
+NULL,5456773,Futsal
+NULL,6156802,Futsal
+NULL,6673858,Futbol Masculino
+NULL,6216343,Futbol Masculino
+NULL,6559417,Futbol Masculino
+NULL,5390200,Futbol Masculino
+NULL,6194470,Futbol Masculino
+NULL,5706059,Futbol Masculino
+NULL,6521950,Futbol Masculino
+NULL,7987733,Futbol Masculino
+NULL,5314797,Futbol Masculino
+NULL,5445173,Futbol Masculino
+NULL,6047721,Futbol Masculino
+NULL,6694851,Futbol Masculino
+NULL,5201127,Futbol Masculino
+NULL,6558594,Futbol Masculino
+NULL,5793150,Futbol Masculino
+NULL,6005107,Futbol Masculino
+NULL,5456773,Futbol Masculino
+NULL,6156802,Futbol Masculino
+NULL,8680019,Handball
+NULL,5481974,Handball
+NULL,5573425,Handball
+NULL,6216145,Handball
+NULL,6871183,Handball
+NULL,5675469,Handball
+NULL,6676580,Handball
+NULL,6196666,Handball
+NULL,6677663,Handball
+NULL,6065077,Handball
+NULL,6008982,Handball
+NULL,6220825,Handball
+NULL,6741315,Handball
+NULL,6155051,Volley Femenino
+NULL,6196366,Volley Femenino
+NULL,5437000,Volley Femenino
+NULL,5445671,Volley Femenino
+NULL,5756407,Volley Femenino
+NULL,5966797,Volley Femenino
+NULL,6719789,Volley Femenino
+NULL,6153947,Volley Femenino
+NULL,6101421,Volley Femenino
+NULL,6518676,Volley Femenino
+NULL,6519400,Volley Femenino
+NULL,5972329,Volley Femenino
+NULL,6518144,Volley Femenino
+NULL,5481974,Basket Femenino
+NULL,6335656,Basket Femenino
+NULL,6216145,Basket Femenino
+NULL,6523030,Basket Femenino
+NULL,6142388,Basket Femenino
+NULL,6676580,Basket Femenino
+NULL,6677663,Basket Femenino
+NULL,5909783,Basket Femenino
+NULL,6008982,Basket Femenino
+NULL,6596942,Basket Femenino
+NULL,6193320,Basket Femenino
+NULL,6221109,Handball
+NULL,5412894,Handball
+NULL,5280807,Handball
+NULL,5314603,Handball
+NULL,5435964,Handball
+NULL,5529631,Handball
+NULL,5551877,Handball
+NULL,5646214,Handball
+NULL,5425652,Handball
+NULL,6520525,Handball
+NULL,6114052,Handball
+NULL,6184941,Handball
+NULL,6915317,Handball
+NULL,5908030,Handball
+NULL,5285356,Handball
+NULL,6137496,Handball
+NULL,5425652,Basket Femenino
+NULL,5934317,Basket Femenino
+NULL,5934760,Basket Femenino
+NULL,7226082,Basket Femenino
+NULL,5772678,Basket Femenino
+NULL,6756064,Basket Femenino
+NULL,7031609,Basket Femenino
+NULL,6871946,Basket Femenino
+NULL,6845042,Basket Femenino
+NULL,6520525,Basket Femenino
+NULL,7009037,Basket Femenino
+NULL,5420258,Basket Femenino
+NULL,5280807,Basket Femenino
+NULL,5867296,Basket Femenino
+NULL,6143623,Basket Femenino
+NULL,5464753,Handball
+NULL,5349402,Handball
+NULL,6782690,Handball
+NULL,5959869,Handball
+NULL,6302564,Handball
+NULL,5355796,Handball
+NULL,5941030,Handball
+NULL,5780002,Handball
+NULL,5842827,Handball
+NULL,5930484,Handball
+NULL,6845996,Handball
+NULL,6794182,Handball
+NULL,6792658,Handball
+NULL,6101032,Handball
+NULL,6576295,Handball
+NULL,5423555,Futbol Masculino
+NULL,5554160,Futbol Masculino
+NULL,5767467,Futbol Masculino
+NULL,5879461,Futbol Masculino
+NULL,5438029,Futbol Masculino
+NULL,6307940,Futbol Masculino
+NULL,6251397,Futbol Masculino
+NULL,5497275,Futbol Masculino
+NULL,5435498,Futbol Masculino
+NULL,7373621,Futbol Masculino
+NULL,5476396,Futbol Masculino
+NULL,5405146,Futbol Masculino
+NULL,5707130,Futbol Masculino
+NULL,5285684,Futbol Masculino
+NULL,6535654,Futbol Masculino
+NULL,5494126,Futbol Masculino
+NULL,5724012,Futbol Masculino
+NULL,5649690,Futbol Masculino
+NULL,5667271,Futbol Masculino
+NULL,6052931,Futbol Masculino
+NULL,5335032,Futbol Masculino
+NULL,5651469,Futbol Masculino
+NULL,5408347,Futbol Masculino
+NULL,6307940,Futsal
+NULL,5796594,Futsal
+NULL,6251397,Futsal
+NULL,6535654,Futsal
+NULL,5243537,Futsal
+NULL,6052931,Futsal
+NULL,5405146,Futsal
+NULL,5870289,Futsal
+NULL,6506721,Futsal
+NULL,6065042,Futsal
+NULL,5649690,Futsal
+NULL,5494126,Futsal
+NULL,5497336,Futsal
+NULL,6185114,Futsal
+NULL,5335032,Futsal
+NULL,5285684,Futsal
+NULL,5438029,Futsal
+NULL,5987456,Futsal
+NULL,5455978,Basket Masculino
+NULL,5869554,Basket Masculino
+NULL,6046848,Basket Masculino
+NULL,5420378,Basket Masculino
+NULL,6542989,Basket Masculino
+NULL,5796901,Basket Masculino
+NULL,5964509,Basket Masculino
+NULL,5791076,Basket Masculino
+NULL,6379402,Basket Masculino
+NULL,6528654,Basket Masculino
+NULL,5968402,Basket Masculino
+NULL,5842815,Basket Masculino
+NULL,6048769,Basket Masculino
+NULL,7240442,Basket Masculino
+NULL,5571725,Basket Masculino
+NULL,6115590,Futbol Femenino
+NULL,5403103,Futbol Femenino
+NULL,6157589,Futbol Femenino
+NULL,6782690,Futbol Femenino
+NULL,5349402,Futbol Femenino
+NULL,5464753,Futbol Femenino
+NULL,5494209,Futbol Femenino
+NULL,5773892,Futbol Femenino
+NULL,5729306,Futbol Femenino
+NULL,6503098,Futbol Femenino
+NULL,6153762,Futbol Femenino
+NULL,5988031,Futbol Femenino
+NULL,6584078,Futbol Femenino
+NULL,7075027,Futbol Femenino
+NULL,6504988,Futbol Femenino
+NULL,6792658,Futbol Femenino
+NULL,6858155,Futbol Femenino
+NULL,5742331,Futbol Femenino
+NULL,6040692,Futbol Femenino
+NULL,5405716,Futbol Femenino
+NULL,6890313,Volley Masculino
+NULL,6144038,Volley Masculino
+NULL,5438029,Volley Masculino
+NULL,5691970,Volley Masculino
+NULL,7587207,Volley Masculino
+NULL,6152438,Volley Masculino
+NULL,6185982,Volley Masculino
+NULL,6856402,Volley Masculino
+NULL,6500799,Volley Masculino
+NULL,6845991,Volley Masculino
+NULL,6972478,Volley Masculino
+NULL,6578869,Volley Masculino
+NULL,6037151,Volley Masculino
+NULL,5969262,Volley Masculino
+NULL,5994000,Volley Masculino
+NULL,5868162,Volley Masculino
+NULL,5457360,Volley Masculino
+NULL,6155488,Volley Femenino
+NULL,5773892,Volley Femenino
+NULL,5772348,Volley Femenino
+NULL,6503098,Volley Femenino
+NULL,6520693,Volley Femenino
+NULL,6873538,Volley Femenino
+NULL,6504988,Volley Femenino
+NULL,7075027,Volley Femenino
+NULL,6711155,Volley Femenino
+NULL,6010511,Volley Femenino
+NULL,6618014,Volley Femenino
+NULL,7072971,Volley Femenino
+NULL,5688683,Volley Femenino
+NULL,6142556,Volley Femenino
+NULL,6661449,Volley Femenino
+NULL,7104637,Volley Femenino
+NULL,5776811,Volley Femenino
+NULL,5773892,Basket Femenino
+NULL,5464753,Basket Femenino
+NULL,5437155,Basket Femenino
+NULL,6576295,Basket Femenino
+NULL,5678172,Basket Femenino
+NULL,6558640,Basket Femenino
+NULL,5614232,Basket Femenino
+NULL,5867596,Basket Femenino
+NULL,6153762,Basket Femenino
+NULL,6845996,Basket Femenino
+NULL,6681376,Basket Femenino
+NULL,8129195,Basket Femenino
+NULL,6649872,Basket Femenino
+NULL,6523270,Basket Femenino
+NULL,5708692,Handball
+NULL,5553118,Handball
+NULL,6234098,Handball
+NULL,6955018,Handball
+NULL,1725695462,Handball
+NULL,47127453,Handball
+NULL,5608922,Handball
+NULL,7279121,Handball
+NULL,7311547,Handball
+NULL,7412922,Handball
+NULL,5787838,Handball
+NULL,6345745,Handball
+NULL,6327159,Handball
+NULL,5744163,Handball
+NULL,6660921,Handball
+NULL,8144022,Handball
+NULL,5872002,Futbol Masculino
+NULL,5309838,Futbol Masculino
+NULL,5678392,Futbol Masculino
+NULL,8595304,Futbol Masculino
+NULL,6130640,Futbol Masculino
+NULL,5646532,Futbol Masculino
+NULL,6130641,Futbol Masculino
+NULL,6507922,Futbol Masculino
+NULL,6145242,Futbol Masculino
+NULL,6065661,Futbol Masculino
+NULL,6256824,Futbol Masculino
+NULL,6274349,Futbol Masculino
+NULL,6112112,Futbol Masculino
+NULL,8464983,Futbol Masculino
+NULL,5445385,Futbol Masculino
+NULL,6153925,Futbol Masculino
+NULL,5616302,Futbol Masculino
+NULL,6250683,Futbol Masculino
+NULL,6844083,Futbol Masculino
+NULL,6770619,Futbol Masculino
+NULL,6776710,Futbol Masculino
+NULL,5812098,Futbol Masculino
+NULL,5309838,Futsal
+NULL,5872002,Futsal
+NULL,5678392,Futsal
+NULL,8595304,Futsal
+NULL,6130640,Futsal
+NULL,5646532,Futsal
+NULL,6130641,Futsal
+NULL,6250683,Futsal
+NULL,6145242,Futsal
+NULL,6065661,Futsal
+NULL,6256824,Futsal
+NULL,6274349,Futsal
+NULL,6112112,Futsal
+NULL,8464983,Futsal
+NULL,6153925,Futsal
+NULL,6776710,Futsal
+NULL,5794060,Basket Femenino
+NULL,6143297,Basket Masculino
+NULL,5458286,Basket Masculino
+NULL,6815791,Basket Masculino
+NULL,5965578,Basket Masculino
+NULL,5965477,Basket Masculino
+NULL,5738307,Basket Masculino
+NULL,6012970,Basket Masculino
+NULL,6528910,Basket Masculino
+NULL,6154186,Basket Masculino
+NULL,6014034,Basket Masculino
+NULL,5930692,Basket Masculino
+NULL,5279138,Basket Masculino
+NULL,3352260,Basket Masculino
+NULL,5662170,Basket Femenino
+NULL,5547856,Basket Femenino
+NULL,6047783,Basket Femenino
+NULL,6041982,Basket Femenino
+NULL,6166191,Basket Femenino
+NULL,6139672,Basket Femenino
+NULL,5439496,Basket Femenino
+NULL,6525024,Basket Femenino
+NULL,6795718,Basket Femenino
+NULL,6196232,Basket Femenino
+NULL,6720493,Basket Femenino
+NULL,5616048,Basket Femenino
+NULL,6597032,Volley Femenino
+NULL,5555942,Volley Femenino
+NULL,5994222,Volley Femenino
+NULL,6720493,Volley Femenino
+NULL,5547856,Volley Femenino
+NULL,5296564,Volley Femenino
+NULL,5616048,Volley Femenino
+NULL,6516782,Volley Femenino
+NULL,6756611,Volley Femenino
+NULL,6246453,Volley Femenino
+NULL,6807117,Volley Femenino
+NULL,6144295,Volley Femenino
+NULL,5461175,Volley Masculino
+NULL,5255591,Volley Masculino
+NULL,6720499,Volley Masculino
+NULL,6014109,Volley Masculino
+NULL,5738307,Volley Masculino
+NULL,6256182,Volley Masculino
+NULL,5419870,Volley Masculino
+NULL,5794787,Volley Masculino
+NULL,6011648,Volley Masculino
+NULL,5960164,Volley Masculino
+NULL,5642522,Volley Masculino
+NULL,6041982,Handball
+NULL,5616048,Handball
+NULL,6166191,Handball
+NULL,6529211,Handball
+NULL,6720493,Handball
+NULL,5724924,Handball
+NULL,6807117,Handball
+NULL,6503690,Handball
+NULL,6309362,Handball
+NULL,6144295,Handball
+NULL,6795718,Handball
+NULL,5553139,Futsal
+NULL,7178626,Futsal
+NULL,6720499,Futsal
+NULL,5642522,Futsal
+NULL,6155457,Futsal
+NULL,5457713,Futsal
+NULL,6011648,Futsal
+NULL,5966340,Futsal
+NULL,5642522,Futsal
+NULL,5553974,Futsal
+NULL,5553139,Futbol Masculino
+NULL,7178626,Futbol Masculino
+NULL,6720499,Futbol Masculino
+NULL,5642522,Futbol Masculino
+NULL,5966340,Futbol Masculino
+NULL,6217653,Futbol Masculino
+NULL,6362203,Futbol Masculino
+NULL,8605581,Futbol Masculino
+NULL,5989998,Futbol Masculino
+NULL,6720493,Futbol Femenino
+NULL,5547856,Futbol Femenino
+NULL,5662170,Futbol Femenino
+NULL,5296564,Futbol Femenino
+NULL,5439496,Futbol Femenino
+NULL,6183058,Futbol Femenino
+NULL,5964995,Futbol Femenino
+NULL,6047783,Futbol Femenino
+NULL,5555696,Futbol Femenino
+NULL,5616048,Futbol Femenino
+NULL,6139672,Futbol Femenino
+NULL,5268607,Futbol Masculino
+NULL,5304358,Futbol Masculino
+NULL,6523413,Futbol Masculino
+NULL,6102173,Futbol Masculino
+NULL,6795151,Futbol Masculino
+NULL,6783021,Futbol Masculino
+NULL,5664808,Futbol Masculino
+NULL,5968804,Futbol Masculino
+NULL,5678309,Futbol Masculino
+NULL,6771115,Futbol Masculino
+NULL,6523290,Futbol Masculino
+NULL,7004426,Futbol Masculino
+NULL,5959530,Futbol Masculino
+NULL,6194155,Futbol Masculino
+NULL,7026033,Futbol Masculino
+NULL,6720147,Futbol Masculino
+NULL,6817756,Futbol Masculino
+NULL,7148220,Futbol Masculino
+NULL,5591222,Futbol Masculino
+NULL,5990915,Futbol Masculino
+NULL,5498301,Futbol Masculino
+NULL,5929329,Futbol Masculino
+NULL,6362875,Futbol Masculino
+NULL,6375946,Futbol Masculino
+NULL,6220811,Futbol Femenino
+NULL,5964465,Futbol Femenino
+NULL,6243275,Futbol Femenino
+NULL,7046702,Futbol Femenino
+NULL,6152474,Futbol Femenino
+NULL,5396275,Futbol Femenino
+NULL,6220062,Futbol Femenino
+NULL,5620489,Futbol Femenino
+NULL,5984899,Futbol Femenino
+NULL,6731681,Futbol Femenino
+NULL,7058719,Futbol Femenino
+NULL,7805391,Futbol Femenino
+NULL,5853785,Futbol Femenino
+NULL,5664617,Futbol Femenino
+NULL,6666833,Futbol Femenino
+NULL,6771759,Futbol Femenino
+NULL,6821845,Futbol Femenino
+NULL,5721172,Futbol Femenino
+NULL,5795377,Futbol Femenino
+NULL,5304358,Futsal
+NULL,6523413,Futsal
+NULL,6102173,Futsal
+NULL,6795151,Futsal
+NULL,6783021,Futsal
+NULL,5664808,Futsal
+NULL,5968804,Futsal
+NULL,5678309,Futsal
+NULL,6771115,Futsal
+NULL,6523290,Futsal
+NULL,7004426,Futsal
+NULL,5959530,Futsal
+NULL,7026033,Futsal
+NULL,5591222,Futsal
+NULL,5498301,Futsal
+NULL,5490912,Volley Masculino
+NULL,6523413,Volley Masculino
+NULL,7108110,Volley Masculino
+NULL,5947898,Volley Masculino
+NULL,7011885,Volley Masculino
+NULL,5444973,Volley Masculino
+NULL,6144383,Volley Masculino
+NULL,5660745,Volley Masculino
+NULL,5494836,Volley Masculino
+NULL,5990915,Volley Masculino
+NULL,6852631,Volley Masculino
+NULL,5763810,Volley Masculino
+NULL,5456090,Volley Masculino
+NULL,5966758,Volley Femenino
+NULL,6505834,Volley Femenino
+NULL,5870480,Volley Femenino
+NULL,5549340,Volley Femenino
+NULL,6252845,Volley Femenino
+NULL,6625725,Volley Femenino
+NULL,5987893,Volley Femenino
+NULL,5710481,Volley Femenino
+NULL,6144850,Volley Femenino
+NULL,6666833,Volley Femenino
+NULL,6284479,Basket Masculino
+NULL,6125803,Basket Masculino
+NULL,7257428,Basket Masculino
+NULL,5688719,Basket Masculino
+NULL,5797932,Basket Masculino
+NULL,5705473,Basket Masculino
+NULL,6027845,Basket Masculino
+NULL,5494836,Basket Masculino
+NULL,7051874,Basket Masculino
+NULL,7011885,Basket Masculino
+NULL,5708649,Basket Masculino
+NULL,5423088,Basket Masculino
+NULL,5865934,Handball
+NULL,6155579,Handball
+NULL,7058719,Handball
+NULL,7805391,Handball
+NULL,6220062,Handball
+NULL,6795310,Handball
+NULL,6308599,Handball
+NULL,6052759,Handball
+NULL,6574027,Handball
+NULL,6147671,Handball
+NULL,5987893,Handball
+NULL,6293753,Handball
+NULL,7360544,Handball
+NULL,7231874,Handball
+NULL,5984899,Handball

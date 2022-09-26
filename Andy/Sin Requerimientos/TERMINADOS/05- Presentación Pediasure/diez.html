@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="#style.css">
+    <style>
+        html , body {
+            margin: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        img {
+            height: 100%; 
+            object-fit: contain;
+            
+            
+        }
+
+    </style>
+</head>
+<body>
+    <img src="jpg/05- Presentación Pediasure_Página_10.jpg" usemap="#image_map">
+    <map name="image_map">
+        <area alt="" title="" href="#tres" coords="83,743,29" shape="circle">
+        <area alt="" title="" href="#trece" coords="172,742,29" shape="circle">
+        <area alt="" title="" href="#uno" coords="259,746,29" shape="circle">
+        <area alt="" title="" href="#dos" coords="1211,270,1279,331" shape="rect">
+        <area alt="" title="" href="#cuatro" coords="1212,333,1278,396" shape="rect">
+        <area alt="" title="" href="#cinco" coords="1212,397,1278,463" shape="rect">
+        <area alt="" title="" href="#ocho" coords="1212,463,1277,525" shape="rect">
+        <area alt="" title="" href="#diez" coords="1213,527,1278,594" shape="rect">
+        <area alt="" title="" href="#once" coords="446,553,31" shape="circle">
+    </map>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="jQuery-rwdImageMaps-master/jquery.rwdImageMaps.min.js"></script>
+    <script>
+        $(document).ready(function(e){
+            $('img[usemap]').rwdImageMaps()
+        })
+    </script>
+</body>
+</html>

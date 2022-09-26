@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VeroniQ</title>
+    <link rel="stylesheet" href="#style.css">
+    <style>
+        html , body {
+            margin: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        img {
+            height: 100%; 
+            object-fit: contain;
+            
+            
+        }
+
+    </style>
+</head>
+<body>
+    <img src="jpg/08- Presentación VeroniQ 28_Página_09.jpg" usemap="#image_map">
+    <map name="image_map">
+        <area alt="" title="" href="#dos" coords="1205,217,1279,292" shape="rect">
+        <area alt="" title="" href="#cuatro" coords="1202,294,1279,373" shape="rect">
+        <area alt="" title="" href="#siete" coords="1202,373,1279,445" shape="rect">
+        <area alt="" title="" href="#quince" coords="1205,515,1277,587" shape="rect">
+        <area alt="" title="" href="#tres" coords="1034,713,27" shape="circle">
+        <area alt="" title="" href="#dieciseis" coords="1116,713,27" shape="circle">
+        <area alt="" title="" href="#uno" coords="1197,715,27" shape="circle">
+        <area alt="" title="" href="#diez" coords="67,450,593,514" shape="rect">
+        <area alt="" title="" href="#trece" coords="616,448,1145,515" shape="rect">
+    </map>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="jQuery-rwdImageMaps-master/jquery.rwdImageMaps.min.js"></script>
+    <script>
+        $(document).ready(function(e){
+            $('img[usemap]').rwdImageMaps()
+        })
+    </script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema</title>
+    <link rel="stylesheet" href="#style.css">
+    
+    <style>
+        html , body {
+            margin: 0;
+            overflow: hidden;
+            width: 100%;
+            height: auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        img {
+            height: 100%; 
+            object-fit: contain; 
+        }
+    </style>
+</head>
+<body>
+    <img src="../Sistema/09- Presentación Claria_Página_4.jpg" alt="sistema" usemap="#sistema">
+    <map name="sistema">
+        <area alt="guia" title="guia" href="../Guia/guia" coords="1106,13,1160,35" shape="rect">
+        <area alt="inicio" title="inicio" href="../Inicio/inicio" coords="1199,15,1258,37" shape="rect">
+        <area alt="nav" title="nav" href="../Nav/nav" coords="1235,287,29" shape="circle">
+        <area alt="capacidades" title="capacidades" href="../Capacidades/capacidades" coords="1237,437,28" shape="circle">
+        <area alt="razones" title="razones" href="../Razones/razones" coords="1235,511,34" shape="circle">
+    </map>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="jQuery-rwdImageMaps-master/jquery.rwdImageMaps.min.js"></script>
+    <script>
+        $(document).ready(function(e){
+            $('img[usemap]').rwdImageMaps()
+        })
+    </script>
+</body>
+</html>
