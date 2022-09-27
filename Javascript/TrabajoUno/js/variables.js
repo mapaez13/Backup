@@ -28,3 +28,6 @@ console.log("jugo",jugo);
 /*
 El DOM es la estructura de objetos genera el navegador
 */
+
+var caja=document.querySelector("");
+console.log("caja: ",caja);
