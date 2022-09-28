@@ -1,11 +1,11 @@
 # jQuery RWD Image Maps
 [![CDNJS](https://img.shields.io/cdnjs/v/jQuery-rwdImageMaps.svg)](https://cdnjs.com/libraries/jQuery-rwdImageMaps)
 
-### Allows image maps to be used in a responsive design by recalculating the area coordinates to match the actual image size on load and window.resize
+## Allows image maps to be used in a responsive design by recalculating the area coordinates to match the actual image size on load and window.resize
 
 ---
 
-#### Usage:
+## Usage:
 
 * If possible, add [correct, unitless](http://dev.w3.org/html5/markup/img) `width` and `height` attributes to your image map images. You can override these in CSS to make them responsive.
 * Add a link to jQuery in your page, preferably at the bottom just before the closing `</body>`
@@ -23,7 +23,7 @@ $(document).ready(function(e) {
 });
 ```
 
-#### Demo:
+## Demo:
 
 http://mattstow.com/experiment/responsive-image-maps/rwd-image-maps
 
