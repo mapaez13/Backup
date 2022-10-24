@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>Ejer 4</title>
+</head>
+<body>
+    <!-- Crear un canva en html y tres botones. Cada boton será -->
+    <!-- Cuadro, Circulo, Rectangulo, cuando el usuario presione cualquiera  -->
+    <!-- de los botones, el JS debera dibujar en el canva la imagen que corresponda -->
+    
+    <div id="circ" onclick="circulo()" style="width: 200px; height: 200px; border-radius: 100px; background-color: aqua;" ></div>
+    <div id="triang" onclick="triangulo()" style="width: 0px; height: 0px; border-left: 120px solid transparent; border-right: 120px solid transparent; border-bottom: 120px solid #2f2f2f;"></div>
+    <div id="cuad" onclick="cuadrado()" style="background-color: red; width: 200px; height: 100px;"></div>
+
+    
+
+    <canvas id="caja" width="400" height="200" style="border:1px solid #d3d3d3;"></canvas>
+    <script src="js/main.js"></script>
+</body>
+</html>
