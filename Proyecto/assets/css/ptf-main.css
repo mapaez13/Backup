@@ -17,7 +17,7 @@
     --ptf-accent-1: hsl(8, 95%, 57%);
     --ptf-accent-2: hsl(8, 75%, 51%);
     --ptf-accent-3: hsl(80, 100%, 30%);
-    --ptf-accent-4: hsl(204, 100%, 50%);
+    --ptf-accent-4: linear-gradient(90deg, rgba(255,165,7,1) 0%, rgba(240,221,35,1) 54%, rgba(246,255,27,1) 100%);
     --ptf-accent-5:hsl(213, 100%, 33%);
     --ptf-color-white: hsl(0, 0%, 100%);
     --ptf-color-black: hsl(0, 0%, 0%);
