@@ -1,5 +1,12 @@
-let img= document.getElementById("img");
-let container= document.getElementById("uno");
+
+
+var img = document.getElementById("img");
+var cont = document.getElementById("uno");
+img.addEventListener("dragend",cambiarColor);
+
+function cambiarColor(){
+    cont.style.background="yellow";
+}
 
 img.ondragstart= function(){
     console.log("Op");
