@@ -1,0 +1,63 @@
+.content1{
+    display: grid;
+     grid-template-columns: 0.15fr 0.15fr 0.15fr;
+     grid-template-areas: 
+     "container1 container2 container3";
+     gap: 0.1rem;
+
+ }
+ .content2{
+     display: grid;
+     grid-template-columns: 0.15fr 0.15fr 0.15fr;
+     grid-template-areas: 
+     "container4 container5 container6";
+     gap: 0.1rem;
+
+ }
+ 
+ .content3{
+     display: grid;
+     grid-template-columns: 0.2fr;
+     grid-template-areas: 
+     "container7";
+     gap: 0.1rem;
+
+  }
+ div.container1{
+     padding: 5px;
+     grid-area: container1;
+     margin: 3px;
+ }
+ div.container2{
+     padding: 5px;
+     grid-area: container2;
+     margin: 3px;
+ }
+ div.container3{
+     padding: 5px;
+     grid-area: container3;
+     margin: 3px;
+ }
+ div.container4{
+     padding: 5px;
+     grid-area: container4;
+     margin: 3px;
+ }
+ div.container5{
+     padding: 5px;
+     grid-area: container5;
+     margin: 3px;
+ }
+ div.container6{
+     padding: 5px;
+     grid-area: container6;
+     margin: 3px;
+ }
+ div.container7{
+     padding: 5px;
+     grid-area: container7;
+     margin: 3px;
+}
+.button{
+    text-align: center;
+}

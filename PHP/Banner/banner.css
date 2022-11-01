@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+    width: 200px;
+}
+.margin{
+    position: absolute;
+    left: 40%;
+}
+.uno{
+background-color: bisque;
+}
+.dos{
+    background-color: bisque;
+}
+h1{
+    color: black;
+    font-variant: small-caps;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    width: 300px;
+}

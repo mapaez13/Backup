@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="procesaArt.php">
+        <h1>Carga Articulos</h1>
+        <h2>Articulos</h2>
+        Codigo del Articulo: <input type="number" name="codigoArt" min="0"><br><br>
+        Codigo del Fabricante: <input type="number" name="codigoFab" min="0"><br><br>
+        Nombre del Articulo: <input type="text" name="nombreArt"><br><br>
+        Precio: <input type="number" name="precio" min="0" step="any" placeholder="$"><br><br>
+        <input type="submit"><br><br>
+        <a href='consultaArt.php'><input type='button' value='Consultar Tabla'></a><br>
+    </form>
+</body>
+</html>

@@ -1,0 +1,46 @@
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.flex-container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.flex-uno{
+    padding: 50px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 25px;
+    width:300px;
+    background-color: antiquewhite;
+
+}
+h1{
+    font-style: normal;
+    font-size:xx-large;
+    font-variant: small-caps;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-style: normal;
+    font-size: x-large;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.submit{
+    text-align: center;
+}
+img{
+    width: 300px;
+    align-items: center;
+}

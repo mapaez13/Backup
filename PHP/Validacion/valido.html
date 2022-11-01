@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validacion</title>
+    <link rel="stylesheet" href="valido.css">
+</head>
+<body>
+    <form action="valido.php" method="post">
+        <div class="content1">
+            <div id="container1">
+                <h1>Nombre:</h1>
+                <input type="text" name="nombre">
+            </div>
+            <div id="container2">
+                <h1>Apellidos:</h1>
+                <input type="text" name="apellido">
+            </div>
+            <div id="container3">
+                <h1>Edad:</h1>
+                <select name="menu">
+                    <option value="0">...</option>
+                    <option value="pibe">Menos de 20 años</option>
+                    <option value="joven">Entre 20 y 39 años</option>
+                    <option value="casimayor">Entre 40 y 59 años</option>
+                    <option value="mayor">60 años o más</option>
+                </select>
+            </div>
+        </div>  
+        <div class="content2">
+            <div>
+                <h1 id="container4">Peso:</h1>
+                <input type="number" name="peso">kg
+            </div>
+            <div>
+                <h1 id="container5">Sexo:</h1>
+                <input type="radio" name="hm" value="Hombre">Hombre
+                <input type="radio" name="hm" value="Mujer">Mujer
+            </div>
+            <div>
+                <h1 id="container6">Estado Civil:</h1>
+                <input type="radio" name="civil" value="soltero">Soltero
+                <input type="radio" name="civil" value="casado">Casado
+                <input type="radio" name="civil" value="otro">Otro
+            </div>
+        </div>  
+        <div class="content3">
+            <div>
+                <h1 id="container7">Aficiones</h1>
+                <input type="checkbox" name="aficiones[]" value="cine">Cine
+                <input type="checkbox" name="aficiones[]" value="deporte">Deporte
+                <input type="checkbox" name="aficiones[]" value="literatura">Literatura<br>
+                <input type="checkbox" name="aficiones[]" value="tebeos">Tebeos
+                <input type="checkbox" name="aficiones[]" value="musica">Musica
+                <input type="checkbox" name="aficiones[]" value="television">Television
+            </div>
+        </div>  
+        <div class="button">
+            <button type="submit">Enviar</button>
+            <button type="reset">Borrar</button>
+        </div>
+    </form>
+</body>
+</html>

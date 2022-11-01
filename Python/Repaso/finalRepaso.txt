@@ -1,0 +1,4 @@
+vendedor1	6000
+vendedor2	9000
+vendedor3	7000
+	22000

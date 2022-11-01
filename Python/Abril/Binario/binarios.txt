@@ -1,0 +1,7 @@
+asuncion, 101110101
+asuncion, 10101011
+asuncion, 1001101
+luque, 010100101
+luque, 1010110101
+san lorenzo, 100101101
+san lorenzo, 100011101

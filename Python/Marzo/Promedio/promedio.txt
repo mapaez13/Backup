@@ -1,0 +1,29 @@
+['Almirón Ivanna']	3.5
+['Amat y Leon Bruno']	2.6666666666666665
+['Avalos Mariana']	3.5
+['Baez Santiago']	3.5
+['Capello Sofia']	3.6666666666666665
+['Cardenas Alejandra']	3.6666666666666665
+['Choi Min 5']	3.1666666666666665
+['Estebanez Juan Pablo']	3.1666666666666665
+['Farina Alessandro']	3.8333333333333335
+['Flecha Facundo']	4.0
+['Gernhofer Carlos']	4.0
+['Giménez Cristhian']	3.8333333333333335
+['Gonzalez Lia']	3.8333333333333335
+['Leiva Walter']	3.8333333333333335
+['Llamosas Jorge Sebastian']	4.166666666666667
+['Maehara Ryuto']	3.5
+['Núñez Camila']	3.3333333333333335
+['Ortiz Antonella']	3.1666666666666665
+['Páez Matias']	3.8333333333333335
+['Prendecki Gastón']	3.3333333333333335
+['Ramirez Mia']	3.3333333333333335
+['Rocholl Julieta']	3.8333333333333335
+['Rodriguez Pedro']	3.8333333333333335
+['Romero Cecilia']	3.8333333333333335
+['Sacco Bruno']	4.0
+['Saguier Agustin']	3.6666666666666665
+['Samaniego Guillermo']	3.6666666666666665
+['Teme Micaela']	3.5
+['Yakisich Keyla']	2.6666666666666665

@@ -1,0 +1,13 @@
+body{
+    background-color: coral;
+}
+.uno{
+    width: 360px;
+    border-radius: 25px;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 40%;
+    margin-top: 20%;
+    background-color: aquamarine;
+    padding: 20px;
+}

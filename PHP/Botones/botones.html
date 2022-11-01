@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+</head>
+<body>
+    <!--La estiqueta form es el codigo que especifica la creacion del formulario y crea sus controles-->
+    <form action="ejemplo.php" method="get" method="post"></form>
+    <!--El action tiene el nombre del agente donde se procesan los datos,
+        El method define como se envian los datos, siendo los valores
+        Get: los valores son añadidos a la direccion del action
+        Post: los valores se envian de forma separada-->
+
+        <input type="text" placeholder="Escribir texto" minlength="1" maxlength="15"><!--Escribir texto--><br>
+        <br>
+        <input type="radio"><!--Boton radial para seleccion multiple--><br>
+        <br>
+        <input type="checkbox"><!--Checkbox para cero o mas opciones--><br>
+        <br>
+        <button type="submit" ><img src="check.png" alt="imagen" width="32px" style="vertical-align: middle;">Enviar</button><br><!--Para enviar el formulario-->
+        <br>
+        <input type="submit"><!--Muestra un boton al que podes clickear--><br>
+        <br>
+        <input type="reset" value="Borrar"><!--Borrar los formularios--><br>
+        <br>
+        <input type="password" name="contraseña" placeholder="Contraseña"><!--Poner una constraseña--><br>
+        <br>
+        <input type="file" name="archivo"><!--Agregar boton de archivos--><br>
+        <br>
+        <input type="image" name="imagen"><!--Agregar de imagen--><br>
+        <br>
+        <input type="hidden" name="oculto"><!--Ocultar, no se que nomas--><br>
+        <br>
+        <input type="number" name="numero" placeholder="0"><!--Agregar boton de numero--><br>
+        <br>
+        <input type="number" placeholder="0" step="any"><br><!--Deja escribir numeros decimales-->
+        <br>
+        <input type="search" name="buscar" placeholder="Buscar"><!--Agregar boton de busqueda--><br>
+        <br>
+        <input type="tel" name="celular" placeholder="0981 999888"><!--Agregar telefono--><br>
+        <br>
+        <input type="url" name="pagina web" placeholder="https://"><!--Agregar direccion web--><br>
+        <br>
+        <input type="email" name="email" placeholder="@---.com"><!--Agregar email--><br>
+        <br>
+        <input type="date" name="fecha"><!--Agregar fecha--><br>
+        <br>
+        <input type="time" name="hora"><!--Agregar hora--><br>
+        <br>
+        <input type="color" name="color"><!--Agregar color--><br>
+        <br>
+        <input type="range" name="rango"><!--Agregar rango--><br>
+        <br>
+        <input type="month" name="mes"><!--Agregar mes--><br>
+        <br>
+        <input type="week" name="semana"><!--Agregar semana--><br>
+        <br>
+        <input type="datetime-local"><!--Agregar fecha y hora local--><br>
+        <br>
+        <textarea name="texto crativo qliau" id="" cols="30" rows="10" placeholder="Area de texto"></textarea><br>
+        <br>
+        <select name="menu">
+            <option value="0">...</option>
+            <option value="Uno">Uno</option>
+            <option value="2">Dos</option>
+            <option value="Three">Tres</option>
+        </select><br>
+        <br>
+        <input type="radio" name="hm" value="1">Hombre<br>
+        <input type="radio" name="hm" value="2">Mujer<br>
+    </form>
+</body>
+</html>
+

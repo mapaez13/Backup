@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carga de Datos</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+<div class="globo">
+    <form action="procesaChofer.php">
+        <h1>Cargar datos del chofer</h1>
+        <p>CI <input type="number" name="ci" min="0"></p>
+        <p>Nombre <input type="text" name="nombre"></p>
+        <p>Celular <input type="text" name="celular"></p>
+        <input type="submit"><br><br>
+        <a href='consultaChofer.php'><input type='button' value='Consultar Tabla Chofer'></a>
+    </form>
+</div>
+<div class="globo">    
+<form action="procesaAutos.php">
+        <h1>Cargar los datos del Auto</h1>
+        <p>Identificacion del Auto <input type="number" name="idAuto"></p>
+        <p>Descripcion <input type="text" name="descripcion"></p>
+        <p>Año <input type="text" name="año"></p>
+        <p>Cedula de Identidad del Conductor <input type="number" name="ci"></p>
+        <input type="submit"><br><br>
+        <a href='consultaAutos.php'><input type='button' value='Consultar Tabla Autos'></a>
+    </form>
+</div>
+<br><br><br>
+    <a href="main.html"><input type="button" name="volver" value="Volver a la pagina principal"></a>
+</body>
+</html>

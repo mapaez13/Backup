@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="salario.css">
+    <title>Formulario</title>
+</head>
+<body>
+<form action="procesaSalario.php" method="post">
+    <div class="title">
+        <h1>Sistema calculo del salario</h1>
+    </div>
+    <div class="title1"><h1>Ingrese sus Datos</h1></div>
+    <div class="foto">
+        <div class="chico">
+            <h3>Nombre:</h3><input type="text" name="name" placeholder="John"><br>
+        </div>
+        <div class="chico">
+            <h3>Apellido:</h3><input type="text" name="surname" placeholder="Doe"><br>
+        </div> 
+        <div class="chico">
+        <h3>Salario Base:</h3><input type="number" name="salario" min="2192839" step="any" placeholder="SALARIO"><br>
+        </div> 
+        <div class="chico"> 
+            <h3>Monto por Hora:</h3><input type="number" name="monto" min="0.01" step="any" placeholder="MONTO POR HORA"><br>
+        </div>  
+        <div class="chico">
+            <h3>Horas Trabajadas:</h3><input type="number" name="horasT" min="20" max="50">
+        </div>
+        <div class="chico">
+            <h3>%IPS</h3><input type="number" min="1" max="10" name="ips">
+        </div>
+        <div class="chico">
+            <h3>%ASO</h3><input type="number" min="1" max="3" name="asociado">
+        </div>
+        <div class="chico">
+            <h3>Cantidad de Hijos</h3><br>
+            <select name="menu">
+                <option value="0">--</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+            </select>
+        </div>
+    </div> 
+    <a><button type="submit" name="enviar" value="SUBMIT"><H3>CALCULAR</H3></button></a>
+</form>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="form.css">
+    <title>Formulario</title>
+</head>
+<body>
+    <form action="procesaIngreso.php" method="post">
+        <div class="foto">
+            <div class="grande">
+                <h1>Step 1: Your details</h1>
+                <div class="chico">
+                    <h3>Name</h3><input type="text" name="name" placeholder="Quantale Dingle" maxlength="25"><br>
+                </div>
+                <div class="chico">
+                    <h3>Email</h3><input type="email" name="mail" placeholder="example@domain.com" maxlength="20"><br>
+                </div> 
+                <div class="chico"> 
+                    <h3>Phone number</h3><input type="tel" name="tel" placeholder="Ex. 0981982983" maxlength="20"><br>
+                </div>  
+                <h1>Step 2: Delivery Address</h1>
+                <div class="chico">
+                    <h3>Address</h3><textarea name="address" cols="30"></textarea>
+                </div>
+                <div class="chico">
+                    <h3>Post Code</h3><input type="text" name="postCode" maxlength="25">
+                </div>
+                <div class="chico">
+                    <h3>Country</h3><input type="text" name="country" maxlength="25">
+                </div>
+                <h1>Step 3: Card Details</h1>
+                <div class="chico">
+                    <h3>Card Type:</h3>
+                    <input type="radio" name="card" value="VISA">VISA
+                    <input type="radio" name="card" value="AmEx">AmEx
+                    <input type="radio" name="card" value="Mastercard">Mastercard
+                </div>
+                <div class="chico">
+                    <h3>Card Number</h3><input type="text" name="cardNumber" maxlength="25">
+                </div>
+                <div class="chico">
+                    <h3>Security code</h3><input type="text" name="cardCode" maxlength="4">
+                </div>
+                <div class="chico">
+                    <h3>Name on Card</h3><input type="text" name="cardName" maxlength="25" placeholder="Exact name as on the card!">
+                </div>
+                <a><button type="submit" name="enviar" value="SUBMIT"><H3>SUBMIT!</H3></button></a>
+            </div>
+        </div> 
+    </form>
+</body>
+</html>
