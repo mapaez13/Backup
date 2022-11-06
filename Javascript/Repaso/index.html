@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Repaso Examen</title>
+</head>
+<body>
+    <h1>Variables</h1>
+    <h3>Las variables de JavaScript son:</h3>
+    <p>
+
+        <b>Numero:</b><br> var numero=5;<br>
+                console.log("Numero ",numero);<br><br>
+                <script>
+                    var numero=5;
+                console.log("Numero ",numero);
+                </script>
+
+        <b>String:</b><br> var a="palabras";<br>
+        console.log("Valor de a: ",a);<br><br>
+        <script>
+            var a="palabras";
+        console.log("Valor de a: ",a);
+        </script>
+
+        <b>Boolean:</b><br> var booleana=true;<br>
+         console.log("Boolean ",booleana);<br><br>
+         <script>
+            var booleana=true;
+         console.log("Boolean ",booleana);
+         </script>
+
+        <b>Objeto:</b><br> var jugo={"ingrediente1":"fresa",<br>
+        "ingrediente2":"mandarina",<br>
+        "ingrediente3":"banana"}<br>
+        console.log("jugo",jugo);<br><br>
+        <script>
+            var jugo={"ingrediente1":"fresa",
+        "ingrediente2":"mandarina",
+        "ingrediente3":"banana"}
+        console.log("jugo",jugo);
+        </script>
+
+        <b>Array:</b><br> var colores = ["rojo","amarillo ",booleana.numero];<br>
+        console.log("Colores: ",colores);<br><br>
+        <script>
+            var colores = ["rojo","amarillo ",booleana,numero];
+        console.log("Colores: ",colores);
+        </script>
+    </p>
+
+    <h1>DOM ('Modelo de Objetos del Documento')</h1>
+    <h3>Es un estándar sobre cómo obtener, cambiar, agregar o eliminar elementos HTML. Es la estructura de objetos genera el navegador.</h3>
+    <p>
+        var caja=document.querySelector("#caja");<br>
+        console.log("caja: ",caja);<br>
+        caja.style.width="200px";<br>
+        caja.style.height="200px";<br>
+        caja.style.background="red";
+    </p>
+    <p id="caja"></p>
+    <script>
+        var caja=document.querySelector("#caja");
+        console.log("caja: ",caja);
+        caja.style.width="200px";
+        caja.style.height="200px";
+        caja.style.background="red";
+        caja.style.marginLeft="auto";
+        caja.style.marginRight="auto";
+    </script>
+
+    <h1>Ciclos</h1>
+    <h3>For</h3>
+    <p>
+        var cajas=document.querySelectorAll(".cajas");<br>
+        console.log(cajas)<br>
+        console.log(cajas[0])<br>
+        for(var i=0;i<cajas.length;i++){<br>
+            cajas[i].style.width="50px";<br>
+            cajas[i].style.height="50px";<br>
+            cajas[i].style.background="rgb("+ i*20+","+i*40+","+i*60+")";<br>
+            cajas[i].style.margin="10px";<br>
+            cajas[i].style.display="inline-block";<br>
+        }
+    </p>
+        <div class="cajas"></div>
+        <div class="cajas"></div>
+        <div class="cajas"></div>
+        <div class="cajas"></div>
+    <script>
+        var cajas=document.querySelectorAll(".cajas");
+        console.log(cajas)
+        console.log(cajas[0])
+        for(var i=0;i<cajas.length;i++){
+            cajas[i].style.width="50px";
+            cajas[i].style.height="50px";
+            cajas[i].style.background="rgb("+ i*20+","+i*40+","+i*60+")";
+            cajas[i].style.margin="10px";
+            cajas[i].style.display="inline-block";
+        }
+    </script>
+
+
+    <h3>While</h3>
+    <p>
+        let text = ""<br>
+        let i = 0;<br>
+        
+        do {
+          text += "<!--<br>-->The number is " + i;<br>
+          i++;<br>
+        }<br>
+        while (i <= 10);<br>
+        
+        document.getElementById("demo").innerHTML = text;
+    </p>
+    <p id="demo"></p>
+    <script>
+        let text = ""
+        let f = 0;
+        do {
+          text += "<br>The number is " + f;
+          f++;
+        }
+        while (f <= 10);
+        document.getElementById("demo").innerHTML = text;
+    </script>
+    
+
+    <h1>Eventos</h1>
+    <h3>Funciones a partir de eventos</h3>
+    
+
+    <h3>Desde HTML</h3>
+    <p>
+        function escribir(){<br>
+            var1=document.querySelector("#cont1");<br>
+            document.getElementById("cont1").innerHTML="Hola Mundo";<br>
+            cont1.style.backgroundColor="red";<br>
+            cont1.style.transition="15s"<br>
+        }
+        <div id="cont1" onclick="escribir()">OP</div>
+    </p>
+    <script>
+        function escribir(){
+            var1=document.querySelector("#cont1");
+            document.getElementById("cont1").innerHTML="Hola Mundo";
+            cont1.style.backgroundColor="red";
+            cont1.style.transition="15s"
+        }
+    </script>
+
+    <h3>Desde JS con DOM</h3>
+    <p>
+        
+        var recuadro=document.querySelector(".recuadro");<br>
+        <div class="recuadro" style="width: 100px; height: 100px; background-color:darkgreen; margin-top:20px; margin-left: auto; margin-right: auto;"></div><br>
+        
+        function cambiarColor(){<br>
+            recuadro.style.background="red";<br>
+        }<br><button style="display: block; margin-top: 20px; margin-left: auto; margin-right: auto;" onclick="cambiarColor()">Evento 1</button><br>
+
+        
+        function restaurarColor(){<br>
+            recuadro.style.background="darkgreen";<br>
+        }<br><button style="display: block; margin-top: 20px; margin-left: auto; margin-right: auto;" onclick="restaurarColor()">Evento 2</button><br>
+        
+        var boton= document.querySelector("#boton");<br>
+        boton.addEventListener("click",moverCaja)<br>
+        function moverCaja(){<br>
+            recuadro.style.width="500px";<br>
+            recuadro.style.transition="10s";<br>
+        }<br><button id="boton">Evento 3</button><br>
+        
+        
+        var boton2= document.querySelector("#boton2");<br>
+        boton2.addEventListener("click",restaurarCaja)<br>
+        function restaurarCaja(){<br>
+            recuadro.style.width="100px";<br>
+            recuadro.style.transition="10s";<br>
+        }<br><button id="boton2">Evento 4</button>
+    </p>
+
+    <script>
+        var recuadro=document.querySelector(".recuadro");
+
+        function cambiarColor(){
+            recuadro.style.background="red";
+        }
+        
+        function restaurarColor(){
+            recuadro.style.background="darkgreen";
+        }
+        
+        var boton= document.querySelector("#boton");
+        boton.addEventListener("click",moverCaja)
+        function moverCaja(){
+            recuadro.style.width="500px";
+            recuadro.style.transition="10s";
+        }
+        
+        var boton2= document.querySelector("#boton2");
+        boton2.addEventListener("click",restaurarCaja)
+        function restaurarCaja(){
+            recuadro.style.width="100px";
+            recuadro.style.transition="10s";
+        }
+    </script>
+
+    <h3>Desde JS con JS</h3>
+    <p>
+
+    </p>
+
+    <h3>Interacciones interactivas (?</h3>
+    <p>
+
+    </p>
+</body>
+</html>
