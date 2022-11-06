@@ -63,7 +63,7 @@
     </p>
     <p id="caja"></p>
     <script>
-        var caja=document.querySelector("#caja");
+        var caja=document.getElementById("caja");
         console.log("caja: ",caja);
         caja.style.width="200px";
         caja.style.height="200px";
@@ -91,7 +91,7 @@
         <div class="cajas"></div>
         <div class="cajas"></div>
     <script>
-        var cajas=document.querySelectorAll(".cajas");
+        var cajas=document.getElementsByClassName("cajas");
         console.log(cajas)
         console.log(cajas[0])
         for(var i=0;i<cajas.length;i++){
@@ -119,8 +119,8 @@
     </p>
     <p id="demo"></p>
     <script>
-        let text = ""
-        let f = 0;
+        text = ""
+        f = 0;
         do {
           text += "<br>The number is " + f;
           f++;
@@ -132,7 +132,17 @@
 
     <h1>Eventos</h1>
     <h3>Funciones a partir de eventos</h3>
-    
+    <button id="hora" onclick="mostrarHora()">Cambiar hora</button>
+    <p id="opa"></p>
+
+    <script>
+        cambiarHora=document.getElementById("hora");
+        texto=document.getElementById("opa");
+        cambiarHora.addEventListener("click",mostrarHora)
+        function mostrarHora(){
+            texto.innerHTML=Date();
+        }
+    </script>
 
     <h3>Desde HTML</h3>
     <p>
