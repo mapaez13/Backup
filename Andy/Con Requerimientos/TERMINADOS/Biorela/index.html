@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<script type="text/javascript" src ="CLMStatreporter.js" ></script>
+		<title>
+			
+		</title>
+	</head>
+<body>
+		<script>
+			function buildStats(){
+				return '{"stamp": "' + new Date().toString() + '"}';	
+			}
+			
+			CLMStatreporter.initContext(buildStats);
+		</script>
+
+<!--Pagina 1-->
+<div id="uno"><img src="imgs/1.png" usemap="#image_map_uno"></div>
+    <map name="image_map_uno">
+        <area alt="" title="" href="#dos" coords="396,499,662,551" shape="rect">
+    </map>
+
+<!--Pagina 2-->
+<div id="dos"><img src="imgs/2.png" usemap="#image_map_dos" width="1060px" height="600px"></div>
+    <map name="image_map_dos">
+        <area alt="" title="" href="#uno" coords="932,60,18" shape="circle">
+        <area alt="" title="" href="#tres" coords="996,45,1060,78" shape="rect">
+        <area alt="" title="" href="#uno" coords="965,45,995,78" shape="rect">
+        <area alt="" title="" href="#tres" coords="110,513,299,576" shape="rect">
+        <area alt="" title="" href="#cuatro" coords="328,513,517,574" shape="rect">
+        <area alt="" title="" href="#cinco" coords="542,518,731,575" shape="rect">
+        <area alt="" title="" href="#siete" coords="761,515,946,575" shape="rect">
+    </map>
+
+<!--Pagina 3-->
+<div id="tres"><img src="imgs/3.png" usemap="#image_map_tres" width="1060px" height="600px"></div>
+    <map name="image_map_tres">
+        <area alt="" title="" href="#uno" coords="932,60,18" shape="circle">
+        <area alt="" title="" href="#cuatro" coords="996,45,1060,78" shape="rect">
+        <area alt="" title="" href="#dos" coords="965,45,995,78" shape="rect">
+    </map>
+
+<!--Pagina 4-->
+<div id="cuatro"><img src="imgs/4.jpg" usemap="#image_map_cuatro" width="1060px" height="600px"></div>
+    <map name="image_map_cuatro">
+        <area alt="" title="" href="#uno" coords="932,60,18" shape="circle">
+        <area alt="" title="" href="#cinco" coords="996,45,1060,78" shape="rect">
+        <area alt="" title="" href="#tres" coords="965,45,995,78" shape="rect">
+    </map>
+
+<!--Pagina 5-->
+<div id="cinco"><img src="imgs/5.png" usemap="#image_map_cinco" width="1060px" height="600px"></div>
+    <map name="image_map_cinco">
+        <area alt="" title="" href="#uno" coords="932,60,18" shape="circle">
+        <area alt="" title="" href="#seis" coords="996,45,1060,78" shape="rect">
+        <area alt="" title="" href="#cuatro" coords="965,45,995,78" shape="rect">
+    </map>
+
+<!--Pagina 6-->
+<div id="seis"><img src="imgs/6.png" usemap="#image_map_seis" width="1060px" height="600px"></div>
+    <map name="image_map_seis">
+        <area alt="" title="" href="#uno" coords="932,60,18" shape="circle">
+        <area alt="" title="" href="#siete" coords="996,45,1060,78" shape="rect">
+        <area alt="" title="" href="#cinco" coords="965,45,995,78" shape="rect">
+    </map>
+
+<!--Pagina 7-->
+<div id="siete"><img src="imgs/7.png" usemap="#image_map_siete" width="1060px" height="600px"></div>
+    <map name="image_map_siete">
+        <area alt="" title="" href="#uno" coords="932,60,18" shape="circle">
+        <area alt="" title="" href="#seis" coords="965,45,995,78" shape="rect">
+    </map>

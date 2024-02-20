@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="152" height="152" viewBox="0 0 152 152">
+  <defs>
+    <style>
+
+      .cls-3 {
+        fill: #f89019;
+        stroke: #ffffff;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+        filter: url(#gradient-overlay-1);
+      }
+
+      .cls-4 {
+        fill: #d2d2d2;
+      }
+
+      .cls-5 {
+        fill: #ffffff;
+      }
+    </style>
+
+    <filter id="gradient-overlay-1" filterUnits="userSpaceOnUse">
+      <feImage x="8" y="8" preserveAspectRatio="none" width="136" height="136" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTM2IiBoZWlnaHQ9IjEzNiI+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjY4IiB5MT0iMTM2IiB4Mj0iNjgiIHkyPSIwIj4KICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMwMjAwMDIiLz4KICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNmZmZmZmYiLz4KPC9saW5lYXJHcmFkaWVudD4KPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgb3BhY2l0eT0iMC42NyIgZmlsbD0idXJsKCNncmFkKSIvPjwvc3ZnPg=="/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+      <feBlend mode="softLight" in2="SourceGraphic" result="gradientFill"/>
+    </filter>
+  </defs>
+  <g id="mailsvg">
+    <g id="elipse-1" style="fill: #f89019; filter: url(#gradient-overlay-1);">
+      <circle id="circle-1" class="cls-3" cx="76" cy="76" r="68" style="stroke: inherit; filter: none; fill: inherit;"/>
+    </g>
+    <use xlink:href="#circle-1" style="stroke: #ffffff; fill: none; filter: none;"/>
+    <path d="M113.101,36.008 C112.694,35.653 112.114,35.571 111.623,35.797 C111.623,35.797 22.865,76.743 22.865,76.743 C22.387,76.963 22.080,77.436 22.074,77.960 C22.068,78.483 22.366,78.962 22.839,79.193 C22.839,79.193 47.957,91.432 47.957,91.432 C48.418,91.657 48.967,91.606 49.378,91.301 C49.378,91.301 73.800,73.178 73.800,73.178 C73.800,73.178 54.628,92.758 54.628,92.758 C54.355,93.038 54.215,93.420 54.245,93.809 C54.245,93.809 56.154,118.492 56.154,118.492 C56.196,119.039 56.566,119.506 57.091,119.678 C57.231,119.723 57.375,119.745 57.518,119.745 C57.908,119.745 58.289,119.579 58.553,119.275 C58.553,119.275 71.885,103.936 71.885,103.936 C71.885,103.936 88.366,111.754 88.366,111.754 C88.724,111.924 89.138,111.931 89.501,111.774 C89.865,111.617 90.142,111.311 90.260,110.936 C90.260,110.936 113.504,37.435 113.504,37.435 C113.666,36.922 113.508,36.362 113.101,36.008 Z" id="path-1" class="cls-4" fill-rule="evenodd"/>
+    <path d="M113.101,32.298 C112.694,31.944 112.114,31.862 111.623,32.088 C111.623,32.088 22.865,74.270 22.865,74.270 C22.387,74.490 22.080,74.964 22.074,75.487 C22.068,76.010 22.366,76.490 22.839,76.720 C22.839,76.720 47.957,88.960 47.957,88.960 C48.418,89.184 48.967,89.133 49.378,88.828 C49.378,88.828 73.800,69.469 73.800,69.469 C73.800,69.469 54.628,91.522 54.628,91.522 C54.355,91.801 54.215,92.184 54.245,92.572 C54.245,92.572 71.885,101.463 71.885,101.463 C71.885,101.463 88.366,109.282 88.366,109.282 C88.724,109.451 89.138,109.459 89.501,109.302 C89.865,109.144 90.142,108.838 90.260,108.463 C90.260,108.463 113.504,33.726 113.504,33.726 C113.666,33.213 113.508,32.653 113.101,32.298 Z" id="path-2" class="cls-5" fill-rule="evenodd"/>
+  </g>
+</svg>

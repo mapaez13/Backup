@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta charset="UTF-8">
+<script src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery.form.js"></script>
+<script type="text/javascript" src="js/jquery.validate.min.js"></script>
+<script>
+$(document).ready(function(){
+
+$('#submit').click(function(){
+
+$.post("http://www.compuesto.digital/clientes/ferrer/Omacor/julio2015_1.php", $("#mycontactform").serialize(),  function(response) {   
+ $('#success').html(response);
+ //$('#success').hide('slow');
+});
+return false;
+
+
+});
+
+});
+</script>
+
+<style>
+
+html {
+	font-family: sans-serif;
+}
+.correo {
+	width: 200px;
+	height: 30px;
+	font-size: 20px;
+}
+.boton{
+	font-size: 20px;	
+}
+.mensaje {
+	visibility: hidden;
+	position: absolute;
+}
+</style>
+</head>
+<body>
+
+<form action="" method="post" id="mycontactform" >
+
+
+<input style="text-transform: lowercase;width: 200px;" class="correo" type="text" name="email" id="email" placeholder="Ingresa un correo" />
+
+<select id="rep" name="rep">
+  <option value="" selected="">Representante</option>
+  <option value="Katherine Alamos">Katherine Alamos</option>
+  <option value="Rolf Bucher">Rolf Bucher</option>
+  <option value="Mauricio Figueroa">Mauricio Figueroa</option>
+  <option value="Cesar Flores">Cesar Flores</option>
+  <option value="Carlos Garrido">Carlos Garrido</option>
+  <option value="Erich Julio">Erich Julio</option>
+  <option value="Osvaldo Moya">Osvaldo Moya</option>
+  <option value="Enrique Negrete">Enrique Negrete</option>
+  <option value="Raul Perez">Raul Perez</option>
+  <option value="Mauricio Ramirez">Mauricio Ramirez</option>
+  <option value="Iván Rivera">Iván Rivera</option>
+  <option value="Maximiliano Schultz">Maximiliano Schultz</option>
+  <option value="Patricia Ulloa">Patricia Ulloa</option>
+ </select>
+
+<input type="button" value="Enviar" id="submit" class="boton"/>
+<br>
+
+<textarea hidden name="asunto" id="asunto">Paquete de aprobación FDA Omacor Cápsulas - Gentileza de Ferrer Chile</textarea>
+
+<textarea hidden class="mensaje" name="message" id="message">
+
+<h2>Paquete de aprobación FDA Omacor Cápsulas - Gentileza de Ferrer Chile</h2>
+
+<p>Aprobación y base de datos Omacor Cápsulas Blandas 1000 mg<p><br>
+	
+	<a href="http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-654_Omacor.cfm" class="btn-primary" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 2; color: #FFF; text-decoration: none; font-weight: bold; text-align: center; cursor: pointer; display: inline-block; border-radius: 25px; background: #348eda; margin: 0 10px 0 0; padding: 0; border-color: #348eda; border-style: solid; border-width: 10px 20px;">Visitar el sitio</a></p>
+	<br>
+	<img src="http://www.compuesto.digital/clientes/servier/ajaxmail/firma.jpg"><br><br>
+
+</textarea>
+
+<textarea hidden name="footer" id="footer"><br>Representante de Ventas Ferrer Chile</textarea>
+
+<div id="success" style="color:red;">Correo del Profesional</div>
+</form>
+</body>
+</html> 
