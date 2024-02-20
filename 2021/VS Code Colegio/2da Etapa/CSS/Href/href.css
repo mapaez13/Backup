@@ -1,0 +1,50 @@
+body{
+    background-color: blanchedalmond;
+    background-image: url(../Href/fondos/nismo.svg),url(../Href/fondos/ralliart.svg);
+    background-position: left,right;
+    background-repeat: repeat-y,repeat-y;
+    background-size: 150px;
+}
+@font-face {
+    font-family: Noto-Serif;
+    src: url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+}
+@font-face {
+    font-family: sigmar;
+    src: url(sigmar-one.woff);
+}
+h1.uno{
+    font-family: sigmar;
+    font-size: 50px;
+    text-align: center;
+    color: crimson;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+a:link{
+color: black;
+font-style: italic;
+font-family: sigmar;
+text-decoration: none;
+border: crimson 2px;
+padding: 7px;
+border-radius: 10px;
+background-color:darkred;
+}
+a:visited{
+    color: crimson;
+    text-decoration: none;
+}
+a:hover{
+    color: darkred;
+    text-decoration: none;
+    color:white;
+    padding:4px;
+    background-color: darkred;
+}
+div{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}

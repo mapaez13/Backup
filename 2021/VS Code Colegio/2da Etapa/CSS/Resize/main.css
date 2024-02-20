@@ -1,0 +1,181 @@
+body{
+    background-color: blanchedalmond
+}
+@font-face {
+    font-family: "faster";
+    src: url(faster-one.woff2);
+}
+a:link{
+    color: black;
+    font-style: italic;
+    font-family: sigmar;
+    text-decoration: none;
+    border: crimson 2px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color:darkred;
+    }
+a:visited{
+    color: crimson;
+    text-decoration: none;
+}
+a:hover{
+    color: darkred;
+    text-decoration: none;
+    color:white;
+    padding:5px;
+    background-color: darkred;
+}
+div.menu{
+    width: 500px;
+    margin-left: 600px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+}
+h1{
+    font-family: faster;
+    font-size: 25px;
+    color: crimson;
+}
+.content1{
+   display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+    "medicos medicos medicos"
+    "container1 container2 container3";
+    gap: 0.2rem;
+    margin: 3px;
+}
+.content2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+    "informatica informatica informatica"
+    "container4 container5 container6";
+    gap: 0.2rem;
+    margin: 3px;
+}
+
+.content3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+    "camareros camareros camareros"
+    "container7 container8 container9";
+    gap: 0.2rem;
+    margin: 3px;
+ }
+#medicos{
+background-color:tomato;
+padding: 5px;
+grid-area: medicos;
+border: 2px solid red;
+gap: 0.2rem;
+margin: 3px;
+}
+#informatica{
+background-color: tomato;
+padding: 5px;
+border: 2px solid red;
+grid-area: informatica;
+gap: 0.2rem;
+margin: 3px;
+}
+#camareros{
+background-color: tomato;
+padding: 5px;
+border: 2px solid red;
+grid-area: camareros;
+gap: 0.2rem;
+margin: 3px;
+}
+div.container1{
+    background-color: salmon;
+    padding: 10px;
+    grid-area: container1;
+    margin: 3px;
+}
+div.container2{
+    background-color: salmon;
+    padding: 10px;
+    grid-area: container2;
+    margin: 3px;
+}
+div.container3{
+    background-color: salmon;
+    padding: 10px;
+    grid-area: container3;
+    margin: 3px;
+}
+div.container4{
+    background-color: salmon;
+    padding: 10px;
+    grid-area: container4;
+    margin: 3px;
+}
+div.container5{
+    background-color: salmon;
+    padding: 10px;
+    grid-area: container5;
+    margin: 3px;
+}
+div.container6{
+    background-color: salmon;
+    padding: 10px;
+    grid-area: container6;
+    margin: 3px;
+}
+div.container7{
+    background-color: salmon;
+    padding: 10px;
+    grid-area: container7;
+    margin: 3px;
+}
+div.container8{
+    background-color: salmon;
+    padding: 10px;
+    grid-area: container8;
+    margin: 3px;
+}
+div.container9{
+    background-color: salmon;
+    padding: 10px;
+    grid-area: container9;
+    margin: 3px;
+}
+@media only screen and (max-width: 300px) {
+    a:hover{
+        background: rosybrown;
+    }
+    .content1{
+        grid-template-columns: 1fr;
+        grid-template-rows: 0.4fr 1.2fr 1.2fr 1.2fr;
+        grid-template-areas: 
+        "medicos"
+        "container1"
+        "container2"
+        "container3";
+    }
+}
+@media only screen and (max-width: 300px) {
+    .content2{
+        grid-template-columns: 1fr;
+        grid-template-rows: 0.4fr 1.2fr 1.2fr 1.2fr;
+        grid-template-areas: 
+        "medicos"
+        "container4"
+        "container5"
+        "container6";
+    }
+}
+@media only screen and (max-width: 300px) {
+    .content3{
+        grid-template-columns: 1fr;
+        grid-template-rows: 0.4fr 1.2fr 1.2fr 1.2fr;
+        grid-template-areas: 
+        "camareros"
+        "container7"
+        "container8"
+        "container9";
+    }
+}

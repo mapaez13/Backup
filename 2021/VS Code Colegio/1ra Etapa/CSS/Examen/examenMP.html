@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<meta charset="UTF8">
+<head>
+    <title>examen</title>
+    <link rel="stylesheet" href="examenMP.css">
+</head>
+
+<body>
+<h1 class="primero">Inteligencia Artificial el Nuevo Orden<h1>
+
+
+<h2 class="primero">Entendiendo qué es una red neuronal artificial para programar inteligencia artificial</h2>
+
+<p class="amarillo">Una red neuronal o red conexionista es un conjunto de nodos <span class="verde">(neuronas)</span> conectadas entre sí, formando una estructura de capas de profundidad, también llamadas “capas de aprendizaje”. 
+Esto último se debe a que dichas capas son las que permiten que la inteligencia artificial pueda ‘aprender’.
+</p>
+<p class="amarillo">
+Entonces, a través de estas capas, la red procesa unos datos numéricos de entrada <span class="verde">(inputs)</span> para dar un resultado <span class="verde">(output).</span> 
+El output puede ser un número o un array de los mismos.
+</p>
+<p class="amarillo">
+El resultado siempre viene acompañado de otro valor numérico entre 0 y 1, llamado loss <span class="verde">(pérdida).</span> 
+Este representa la precisión con la que la red ha obtenido un resultado.
+</p>
+
+<h2 class="segundo">Capas de las redes neuronales artificiales para la programación de inteligencia artificial</h2>
+
+<p class="violeta"><span class="subrayado">- Capa de entrada (input layer):</span> Es la primera capa de la red, así que debe tener la misma cantidad de neuronas que datos tenga el input. Por ejemplo, si queremos que nuestro input sea una imagen de 4096 píxeles, nuestra primera capa tendrá 4096 neuronas.</p>
+<p class="violeta"><span class="subrayado">- Capas ocultas (hidden layers):</span> es el conjunto de capas intermedias entre la entrada y la salida. Pueden contener todas las neuronas que hagan falta, pues la cantidad de capas y neuronas estará relacionada con la complejidad de la red y la capacidad de procesamiento de datos más complejos.</p>
+<p class="violeta"><span class="subrayado">- Capa de salida (output layer):</span> es la última capa de la red. De esta capa se recoge el resultado del procesamiento de la <span class="rojo">RNA.</span></p>
+
+<h2 class="tercero">Redes Neuronales</h2>
+<p class="redesTercero">Cuando hablamos de <span class="redes">redes neuronales artificiales</span> al programar inteligencia artificial es muy importante tener en cuenta
+que no solo la complejidad de estas es importante, sino también que los datos elegidos para entrenar a las mismas deben 
+ser adecuados para obtener los resultados esperados.</p>
+
+<h1 class="segundo">Pasos para entrenar redes neuronales <span class="art">artificiales</span> al programar inteligencia <span class="art">artificial</span></h2>
+
+<h2 class="cuarto">Para entrenar las RNA al momento de programar inteligencia artificial se deben seguir dos pasos:</h2>
+
+<div class="ultimo">
+<span class="feedforwarding">Feedforwarding</span>
+
+<p class="ultimo">Se trata, simplemente, de introducir un input a la red y calcular el output de esta.
+Llegados a este punto, probablemente te estés preguntando cómo sabe la red el resultado que debería dar, y para ello utilizaremos lo que se llama la <span class="woff">loss function.</span></p>
+
+<p class="ultimo">Durante el entrenamiento, tendremos que indicarle a la red qué output es el esperado para cada input. 
+Luego, para saber cómo de acertado ha sido, aplicaremos a cada output la <span class="woff">Loss function</span>, que nos dará un valor numérico, el cual deberá conseguir minimizar.</p>
+
+<span class="feedforwarding">Backpropagation</span>
+
+<p class="ultimo">Luego de medir el error de nuestra predicción (loss), necesitamos encontrar una manera de propagar el error y actualizar los pesos y <span class="resaltado">bias.</span> 
+Para determinar la cantidad indicada de ambos parámetros, debemos conocer la derivada de la loss function con respecto a los pesos y <span classs="resaltado">bias.</span></p>
+
+<p class="ultimo">Si tenemos la derivada, simplemente podemos actualizar los pesos y los <span class="resaltado">bias</span> aumentándolos o reduciéndolos. Esto se conoce como descenso del gradiente. 
+    Sin embargo, no podemos calcular directamente la derivada de la <span class="woff">loss function</span> con respecto a los pesos y <span class="resaltado">bias</span> porque la ecuación de esta función no contiene dichos parámetros. Por lo tanto, necesitamos implementar la ‘regla de la cadena’:</p>
+</div>
+
+
+
+</body>
+</html>

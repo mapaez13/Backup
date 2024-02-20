@@ -1,0 +1,86 @@
+body{
+background-color:blanchedalmond;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+margin: 0;
+font-size: 50px;
+text-align: center;
+}
+
+p {
+padding: 15px;
+font-size: 25px;
+}
+
+p#m1 {
+position: absolute;
+top: 8%;
+left: 10%;
+width: 80%;
+height: 10%;
+border: brown 2px solid;
+background-color: burlywood;
+text-align: center;
+}
+
+p#m2 {
+position: absolute;
+top: 40%;
+left: 32%;
+width: 35%;
+height: 30%;
+z-index: 2;
+border: green 4px solid;
+background-color: greenyellow;
+text-align: center;
+}
+
+p#m3 {
+position: absolute;
+top: 25%;
+left: 5%;
+width: 35%;
+height: 25%;
+border: yellow 4px solid;
+background-color: yellow;
+text-align: left;
+}
+
+p#m4 {
+position: absolute;
+top: 25%;
+right: 5%;
+width: 35%;
+height: 25%;
+border: lightsteelblue 4px solid;
+background-color: lightsteelblue;
+text-align: right;
+}
+
+p#m5 {
+position: absolute;
+bottom: 5%;
+left: 5%;
+width: 35%;
+height: 25%;
+border: lightpink 4px solid;
+background-color: lightpink;
+text-align: left;
+}
+
+p#m6 {
+position: absolute;
+bottom: 5%;
+right: 5%;
+width: 35%;
+height: 25%;
+border: lightsalmon 4px solid;
+background-color: lightsalmon;
+text-align: right;
+}
+
+p:hover {
+z-index: 3;
+}

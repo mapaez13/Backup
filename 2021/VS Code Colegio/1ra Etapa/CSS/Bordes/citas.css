@@ -1,0 +1,53 @@
+body{
+    background-color: crimson;
+    font-family: sans-serif;
+    font-size: 25px; 
+}
+h1{
+    font-family: monospace;
+    text-transform: uppercase;
+    text-shadow: black 5px 5px;
+    color: blanchedalmond;
+    padding: 25px;
+}
+
+p.primero{
+    background-color: cornsilk;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 15px;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+p.segundo{
+    background-color: darkred;
+    border-style: solid;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-width: 20px;
+    border-color: maroon;
+    padding: 20px;
+    margin-right: 500px;
+}
+
+p.tercero{
+    background-color:goldenrod;
+    border-style: solid;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-width: 20px;
+    border-color: orange;
+    padding: 15px;
+    margin-left: 500px;
+}
+
+p.cuarto{
+    background-color: midnightblue;
+    border-style: dashed;
+    border-color: royalblue;
+    padding: 15px;
+    margin-right: 250px;
+    margin-left: 250px;
+}

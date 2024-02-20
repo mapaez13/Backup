@@ -1,0 +1,118 @@
+body{
+    background-color: lightgray;
+}
+.flex-container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+h1{
+    color: #191970;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+p.uno{
+    color: #000000;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.bold{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold; 
+}
+#cabecera{
+    text-align: center;
+    background-color: #0000cd;
+    border-radius: 25px;
+    padding: 50px;
+}
+#menu{
+    width: 1450px;
+    border-radius: 25px;
+    padding: 50px;
+    margin: 10px;
+    border: solid #0000cd;
+    flex-grow: 3;
+    text-align: center;
+    padding: 1em;
+    background-color: #6495ed;
+}
+#SECCION1{
+    border-style: solid;
+    border-color: #0000cd;
+    border-radius: 25px;
+    padding: 50px;
+    margin: 10px;
+    text-align: center;
+    background-color: #6495ed;
+}
+#SECCION2{
+    border-style: solid;
+    border-color: #0000cd;
+    border-radius: 25px;
+    padding: 50px;
+    margin: 10px;
+    text-align: center;
+    background-color: #6495ed;
+}
+#SECCION3{
+    border-style: solid;
+    border-color: #0000cd;
+    border-radius: 25px;
+    padding: 50px;
+    margin: 10px;
+    text-align: center;
+    background-color: #6495ed;
+}
+#SECCION4{
+    border-style: solid;
+    border-color: mediumblue;
+    border-radius: 25px;
+    padding: 50px;
+    margin: 10px;
+    text-align: center;
+    background-color: #6495ed;
+}
+img{
+    width: 200px;
+}
+a:link{
+    color: #0000cd;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    border: #0000cd 2px;
+    padding: 7px;
+    border-radius: 10px;
+    background-color:white;
+    margin: 5px;
+    }
+a:visited{
+    color: #0000cd;
+    text-decoration: none;
+}
+a:hover{
+    color: #0000cd;
+    text-decoration: none;
+    color:white;
+    padding:4px;
+    background-color: #191970;
+}  
+li{
+    padding: 10px;
+    display:contents;
+} 
+.flex-uno{
+    text-align: center;
+    width: 300px;
+    border-radius: 25px;
+    padding: 50px;
+    margin: 10px;
+}

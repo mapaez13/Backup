@@ -1,0 +1,37 @@
+body {
+    background-color: burlywood;
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: justify;
+  }
+  
+  h1 {
+    color: darkblue;
+    font-weight: bold;
+    letter-spacing: 50px;
+    text-align: right;
+    text-transform: uppercase;
+  }
+  
+  h2 {
+    background-color: #5a6034;
+    color: white;
+  }
+  
+  img.croce {
+    margin-left: 500px;
+    margin-right: 250px;
+  }
+  
+  img.fiore {
+    float: left;
+    margin-bottom: 15px;
+  }
+  
+  img.novella {
+    float: right;
+  }
+  
+  span.bold {
+    font-weight: bold;
+  }

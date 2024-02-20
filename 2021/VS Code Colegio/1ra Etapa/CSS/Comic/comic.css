@@ -1,0 +1,35 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    font-family: sans-serif;
+    text-align: right;
+}
+span.comic{
+    font-family: cursive;
+    color: red;
+
+}
+h2{
+    font-variant: small-caps;
+    font-family: monospace;
+    font-size: 250%;
+}
+p{
+    font-family: sans-serif;
+    text-indent: 50px;
+    line-height: 1.6;
+    text-align: justify;
+}
+span.nm{
+    color:maroon;
+    font-weight: bold;
+}
+span.num{
+    color:darkgoldenrod;
+}
+em.nom{
+    background-color: white;
+    color: green;
+    font-weight: bold;
+}

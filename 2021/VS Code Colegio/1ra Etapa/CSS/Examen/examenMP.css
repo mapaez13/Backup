@@ -1,0 +1,129 @@
+body{
+    background-color: beige;
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-bottom: 200px;
+    margin-right: 200px;
+}
+h1.primero{
+    text-transform: uppercase;
+    border:5px solid orange;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px; 
+    text-align: center;
+    text-decoration: underline orange;
+    text-decoration-style: solid;
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+}
+h2.primero{
+    font-variant: small-caps;
+    font-style: italic;
+    color: blueviolet;
+    text-align: center;
+}
+p.amarillo{
+    text-indent: 10px;
+    color: crimson;
+}
+span.verde{
+    color: darkblue;
+    text-decoration: underline darkblue;
+    text-decoration-style:solid ;
+}
+h2.segundo{
+    text-transform: uppercase;
+    text-align: center;
+    color: darkmagenta;
+    text-decoration: underline darkmagenta;
+    text-decoration-style: solid;
+    font-family: monospace;
+}
+span.subrayado{
+    color: darkred;
+    text-decoration-style: solid;
+    text-decoration:underline darkred;
+    font-weight: bold;
+}
+p.violeta{
+    color: darkred;
+}
+h2.tercero{
+    font-variant: small-caps;
+    text-align: center;
+    text-decoration-style: solid;
+    text-decoration:underline burlywood;
+    color: burlywood;
+}
+p.redesTercero{
+    text-align: center;
+    color: chocolate;
+}
+span.redes{
+    text-indent: 10px;
+    color: darkblue;
+    text-decoration-style: solid;
+    text-decoration:underline darkblue;
+}
+h1.segundo{
+    text-align: center;
+    font-variant: small-caps;
+    font-family: serif;
+    text-decoration-style: solid;
+    text-decoration:underline;
+}
+span.art{
+    text-transform: capitalize;
+    font-family: serif;
+    color: darkgreen;
+    text-decoration-style: solid;
+    text-decoration:underline darkgreen;
+}
+h2.cuarto{
+    text-align: center;
+    font-variant: small-caps;
+    color: darkkhaki;
+    text-decoration-style: solid;
+    text-decoration:underline darkkhaki;
+}
+div.ultimo{
+    border:5px solid blue;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+@font-face {
+    font-family: Playball;
+    src: url("playball.woff");
+}
+span.feedforwarding{
+    font-family: Playball;
+    color: brown;
+    font-style: italic;
+    text-transform: capitalize;
+    text-decoration-style: solid;
+    text-decoration:underline brown;
+}
+p.ultimo{
+    text-align: center;
+    color: cadetblue;
+}
+span.woff{
+    font-family: Playball;
+    color: cadetblue;
+    background-color: yellow;
+    font-style: italic;
+}
+span.resaltado{
+    color: coral;
+    background-color: cyan;
+}

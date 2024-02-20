@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    font-size: 25px;
+  }
+  
+  h1 {
+    border: solid 5px black;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  p {
+    text-align: justify;
+  }
+  
+  p.primero {
+    border-left: double 15px red;
+    border-top: double 15px red;
+  }
+  
+  p.segundo {
+    border-color: blue green;
+    border-width: 10px 15px 20px 25px;
+    border-style: dashed;
+  }
+  
+  p.tercero {
+    border-color: gold;
+    border-width: 30px 15px;
+    border-style: double;
+  }
+  
+  p.cuarto {
+    border-top: 15px lime;
+    border-bottom: 15px blue;
+    border-style: solid none;
+  }
+  
+  p.quinto {
+    border-color: red black black;
+    border-width: 40px;
+    border-style: dashed solid dotted;
+  }
+  
+  p.sexto {
+    border-top: 10px dotted black;
+    border-right: 40px solid black;
+    border-bottom: 20px dashed black;
+    border-left: 40px double red;
+  }

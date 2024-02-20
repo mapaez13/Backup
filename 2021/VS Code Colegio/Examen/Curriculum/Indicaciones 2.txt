@@ -1,0 +1,30 @@
+Indicaciones
+=============
+
+- Se presenta el html con las etiquetas y nombres id y class respectivos
+- Utilizando la hojas de estilo, aplicar el mismo estilo que añadiste a
+tu curriculum, de tal forma que: 
+Obs.: Si se creó más de una página se podrà separar los elementos.
+--------------------------------------------------------------------------
+- El menu funcione correctamente 2p
+--------------------------------------------------------------------------
+- Los estilos del menu tengan el efecto hover, link y visited 2p
+---------------------------------------------------------------------------
+- Funcione la opcion de navegación del menu, es decir que pueda
+abrir cada opcion deseada. 2p
+---------------------------------------------------------------------------
+OBS: NO SE DEBE AGREGAR NI QUITAR NINGUNA ETIQUETA HTML, A EXCEPCIÓN DE ALGUNAS 
+QUE SE LISTAN MAS ABAJO. ES DECIR LA HOJA DE ESTILO SE DEBE ADAPTAR AL HTML
+- Lo unico permitido es añadir otro nombre class o id a los elementos que 
+No lo tienen no se debe borrar ninguna. 
+- Solo esta permitido colores HEXADECIMALES
+- Agregar la foto en el lugar del img.  10p
+---------------------------------------------------------------------------
+LISTA ETIQUETA PERMITIDAS
+.........................
+ . Etiqueta de Vinculos
+ . Etiqueta de Lineas Horizontales
+ . Etiqueta de Cajas
+ . Etiqueta Span
+ 
+

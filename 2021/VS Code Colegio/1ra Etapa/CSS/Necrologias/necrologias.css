@@ -1,0 +1,73 @@
+body{
+    background-color:blanchedalmond;
+}
+
+@font-face {
+    font-family: Cabin Sketch;
+    src: url("cabin-sketch.woff");
+}
+@font-face {
+    font-family: Gabriela;
+    src: url("gabriela.woff");
+}
+
+h1{
+    font-family: Cabin Sketch;
+    text-align: center;
+}
+h2.naranja{
+    font-family: Gabriela;
+    color:seashell;
+    background-color: darkorange;
+    margin-top: -3px;
+    height: 50px;
+    border-top-right-radius: 20px;
+}
+div.naranja{
+    background-color: lightsalmon;
+    border:5px solid orange;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px; 
+}
+p.naranja{
+    background-color: peru;
+    margin-top: -20px;
+    padding-left: 10px;
+}
+p.naranjaClaro{
+    margin-top: -10px;
+    padding-left: 20px;
+}
+h2.violeta{
+    font-family: Gabriela;
+    color:seashell;
+    background-color: blueviolet;
+    margin-top: -3px;
+    height: 50px;
+    border-top-left-radius: 20px;
+}
+div.violeta{
+    background-color: mediumpurple;
+    border:5px solid midnightblue;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 0px; 
+}
+p.violeta{
+    background-color: plum;
+    margin-top: -20px;
+    padding-left: 10px;
+}
+p.violetaClaro{
+    margin-top: -10px;
+    padding-left: 20px;
+}

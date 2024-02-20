@@ -1,0 +1,45 @@
+body {
+    background-color: blanchedalmond;
+    background-image: url(../fondos/corazon-1.svg),url(../fondos/corazon-2.svg);
+    background-position: left,right;
+    background-repeat: repeat-y,repeat-y;
+    background-size: 150px;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 30px;
+    text-transform: uppercase;
+  }
+  
+  div {
+    border: black 2px solid;
+    margin: 10px 150px;
+    font-weight: bold;
+  }
+  
+  div.primero {
+    background: url(../fondos/manchas.png);
+    color: white;
+  }
+  
+  div.segundo {
+    background: url(../fondos/fuego.svg) no-repeat bottom right, url(../fondos/fuego.svg) no-repeat bottom left, url(../fondos/tallos.jpg);
+    color: yellow;
+  }
+  
+  div.tercero {
+    background:  url(../fondos/ojo.svg) no-repeat center, url(../fondos/hexagonos.jpg);
+    background-size: contain, auto;
+    color: crimson;
+  }
+  
+  div.cuarto {
+    padding-bottom: 50px;
+    background: url(../fondos/caballo.svg) repeat-x bottom, url(../fondos/estrellas.png) repeat;
+    background-size: 100px, auto;
+    color: darkgreen;
+  }
+  
